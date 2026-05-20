@@ -1,0 +1,18 @@
+{
+  "workflow_id": "depositback-agent-email-copywriter-default",
+  "version": "1.0.0",
+  "agent": "email-copywriter",
+  "created": "2026-05-20T17:41:32.929931",
+  "description": "Default health-check workflow for Email Copywriter",
+  "steps": [
+    {
+      "id": "health_check",
+      "skill": "noop",
+      "params": {
+        "message": "Email Copywriter is operational"
+      }
+    }
+  ],
+  "on_success": "Write result to data/outbox/",
+  "on_failure": "Update state.json with error status"
+}

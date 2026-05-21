@@ -1,0 +1,37 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779387761",
+  "timestamp": "2026-05-21T18:23:17.563399+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "7-Day Security Deposit Demand Letter Email Sequence: Recover Your Deposit Fast",
+        "meta_description": "Use DepositBack's security deposit demand letter email sequence to get your money back. Templates, deadlines, and legal leverage for US renters. Start today.",
+        "content_outline": [
+          "Email 1 (Immediate Send): The Initial Security Deposit Demand Letter \u2014 Subject line focuses on overdue refund and state law compliance; body copy establishes the move-out date, deposit amount owed, and formal demand for return within 24-48 hours.",
+          "Email 2 (Day 3): Security Deposit Demand Letter Template & Legal Deadline \u2014 Subject line highlights the template and legal timeline; body copy provides the downloadable demand letter template, cites state-specific deadlines, and warns of statutory penalties.",
+          "Email 3 (Day 7): Escalation When the Landlord Won't Return the Security Deposit \u2014 Subject line triggers urgency around non-response; body copy details deduction disputes, itemized receipt requirements, and increased legal pressure.",
+          "Email 4 (Day 14): Final Notice & Security Deposit Refund Letter Before Court \u2014 Subject line emphasizes last-chance recovery and small claims preparation; body copy summarizes total amount due, attaches the final demand letter, and outlines next litigation steps."
+        ],
+        "key_points": [
+          "Subject Line 1: 'Your security deposit is overdue \u2014 [State] law requires immediate return'",
+          "Body Copy 1: Open with move-out verification, state the exact deposit amount ($X), reference state landlord-tenant code deadline, and deliver a clear 24-hour demand for the security deposit return letter to be processed.",
+          "Subject Line 2: 'Free security deposit demand letter template inside (+ your legal deadline)'",
+          "Body Copy 2: Position the template as the fastest way to write a demand letter for security deposit recovery; include fillable fields for landlord address, move-out date, and itemized deductions dispute; mention double or triple damages.",
+          "Subject Line 3: 'Landlord won't return your security deposit? Send this now'",
+          "Body Copy 3: Address common landlord excuses, demand an itemized statement of deductions, reiterate the security deposit letter to landlord requirement, and escalate with a firm 72-hour final notice.",
+          "Subject Line 4: 'Last chance: Recover your security deposit before filing in small claims court'",
+          "Body Copy 4: Summarize total owed including penalties, attach the finalized security deposit refund letter, and provide a step-by-step litigation checklist to show you know how to get your security deposit back through legal action.",
+          "Urgency Hook: Every state has a hard deadline (14-60 days); waiting weakens your position and forfeits statutory penalties.",
+          "Keyword Integration: Naturally weave in 'security deposit demand letter,' 'security deposit demand letter template,' 'how to write security deposit letter,' 'letter to landlord about security deposit,' and 'security deposit refund letter' across subject lines and body headers."
+        ],
+        "cta": "Don't let your landlord keep what's yours. Generate your state-specific security deposit demand letter with DepositBack in under 5 minutes and start your recovery sequence now.",
+        "target_audience": "US renters who have moved out and whose landlords have failed to return their security deposit or provided an inadequate itemized deduction statement within the legally mandated timeframe.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

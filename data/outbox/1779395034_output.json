@@ -1,0 +1,34 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779395011",
+  "timestamp": "2026-05-21T20:23:54.590942+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Demand Letter: Recover Your Money Fast",
+        "meta_description": "Free security deposit demand letter template. Recover your rental deposit from your landlord fast. Start your claim with DepositBack today.",
+        "content_outline": [
+          "Why Your Landlord Hasn't Returned Your Security Deposit",
+          "What Is a Security Deposit Demand Letter?",
+          "How to Write a Security Deposit Demand Letter That Works",
+          "State-by-State Security Deposit Return Deadlines",
+          "Security Deposit Demand Letter Template & Sample",
+          "When to Escalate Beyond a Demand Letter",
+          "How DepositBack Automates Your Demand Letter in Minutes"
+        ],
+        "key_points": [
+          "A formal demand letter is the fastest, most effective first step to recover a withheld security deposit without immediate legal fees",
+          "Most states require landlords to return deposits within 14 to 60 days; citing your specific state law creates immediate legal urgency",
+          "Demand letters that reference state statutes, certified mail delivery, and itemized damages disputes significantly increase recovery rates",
+          "DepositBack generates state-specific security deposit demand letters in under 2 minutes, formatted to compel landlord compliance"
+        ],
+        "cta": "Generate your free state-specific security deposit demand letter in under 2 minutes\u2014no credit card required.",
+        "target_audience": "US renters whose landlords have failed to return their security deposit within the state-mandated timeframe and need an immediate, professional recovery solution",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

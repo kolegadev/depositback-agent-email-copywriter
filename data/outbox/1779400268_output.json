@@ -1,0 +1,31 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779400238",
+  "timestamp": "2026-05-21T21:51:08.646349+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Recovery Email Sequence: Landlord Withholding Your Deposit?",
+        "meta_description": "Frustrated tenant seeking help? Get high-conversion email subject lines and body copy to fight back when your landlord is withholding your security deposit.",
+        "content_outline": [
+          "Email 1 (Day 0): The Overdue Alert \u2014 Targets 'security deposit not returned' and 'landlord not returning deposit' with state-specific deadline urgency",
+          "Email 2 (Day 2): The Illegal Deduction Dispute \u2014 Targets 'what can landlord deduct from security deposit' and 'can landlord keep security deposit' by debunking bogus cleaning/repair claims",
+          "Email 3 (Day 4): The Demand Letter Close \u2014 Targets 'security deposit dispute letter' and 'what to do when landlord doesn't return deposit' with a ready-to-send legal letter CTA"
+        ],
+        "key_points": [
+          "Subject Lines: 1) 'Your security deposit is now [X] days late \u2014 here is your deadline', 2) 'Re: Normal wear and tear \u2014 this deduction is not legal in [State]', 3) 'My landlord won't give me my deposit back (what finally worked)', 4) 'Can a landlord keep your security deposit for cleaning? (Answer inside)', 5) 'Final notice: Your security deposit dispute letter is ready'",
+          "Email 1 Body Copy Hook: 'If you are searching \"is my landlord required to return my deposit\" right now, you are not alone. In [State], your landlord had [X] days. That deadline has passed. Every day you wait, you lose leverage. Here is exactly what to do next...'",
+          "Email 2 Body Copy Hook: 'Landlords love vague invoices. \"Cleaning fees.\" \"Damage repairs.\" But tenant rights security deposit law is clear: normal wear and tear is not damage. If your landlord is withholding security deposit money for scuffed floors or nail holes, that is illegal in most states. Let's dispute it line-by-line...'",
+          "Email 3 Body Copy Hook: 'Stop asking Reddit what to do when your landlord doesn't return deposit. The fastest way to get your money is a formal demand letter citing your state statute. We built the letter for you. Just add your details, download, and send. Most tenants see a response within 48 hours.'",
+          "Urgency & SEO Strategy: Pre-headers include long-tail variants (e.g., 'landlord withholding security deposit california', 'security deposit not returned within 30 days texas') to match problem-aware search intent and increase open rates; body copy uses emotional validation ('You paid on time. You cleaned everything. They are ignoring you.') before transitioning to legal empowerment."
+        ],
+        "cta": "Generate your state-specific security deposit demand letter in 5 minutes \u2014 legally formatted, tenant-proven, and designed to get your deposit back fast.",
+        "target_audience": "Problem-aware US renters actively searching for solutions to a landlord withholding, delaying, or wrongfully deducting their security deposit; emotionally frustrated but ready to take legal action.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

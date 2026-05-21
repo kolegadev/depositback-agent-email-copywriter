@@ -1,0 +1,30 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779394402",
+  "timestamp": "2026-05-21T20:13:42.197239+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? The 5-Day Email Sequence to Get It Back",
+        "meta_description": "Is your landlord withholding your security deposit? Use this 5-day email sequence and free demand letter template to recover your money fast.",
+        "content_outline": [
+          "How to Know If Your Landlord Is Illegally Withholding Your Deposit (State Deadlines & Deduction Rules)",
+          "The 5-Day Security Deposit Recovery Email Sequence: Subject Lines and Body Copy for Every Stage",
+          "When Email Isn't Enough: Escalating to a Formal Demand Letter or Small Claims Court"
+        ],
+        "key_points": [
+          "Most U.S. states require landlords to return security deposits within 14\u201360 days and provide an itemized list of any deductions.",
+          "Normal wear and tear cannot be legally deducted; only actual damage beyond ordinary use and unpaid rent are valid charges.",
+          "A documented email sequence creates a paper trail, but a state-compliant demand letter often triggers immediate payment.",
+          "DepositBack generates attorney-reviewed demand letters tailored to your state\u2019s landlord-tenant laws in under 5 minutes."
+        ],
+        "cta": "Stop waiting. Generate your free, state-specific security deposit demand letter now and force your landlord to pay what they owe.",
+        "target_audience": "Problem-aware U.S. renters whose landlords are withholding, keeping, or failing to return security deposits.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

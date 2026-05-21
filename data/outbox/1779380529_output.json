@@ -1,0 +1,33 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779380495",
+  "timestamp": "2026-05-21T16:22:09.478239+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Recovery Email Sequence: Demand Letter Templates & State Law Urgency",
+        "meta_description": "Recover your security deposit fast. Free demand letter templates, state-specific deadlines, and urgency-driven email sequences for US renters.",
+        "content_outline": [
+          "Email 1: The Deadline Alert \u2014 Subject line targeting 'how to get security deposit back' with a state-specific return window reminder and move-out checklist",
+          "Email 2: The Formal Demand \u2014 Subject line optimized for 'security deposit demand letter' with certified-mail instructions and an auto-generated template",
+          "Email 3: The Deduction Dispute \u2014 Subject line addressing 'landlord won't return security deposit' with a rebuttal checklist for wrongful charges",
+          "Email 4: The Template Toolkit \u2014 Subject line using 'security deposit demand letter template' with downloadable, state-customized PDF and copy-paste body copy",
+          "Email 5: The Final Notice \u2014 Subject line leveraging 'demand letter for security deposit' before small-claims filing and statutory penalty/triple-damages warning"
+        ],
+        "key_points": [
+          "Open every email with a deadline countdown based on the recipient's state (e.g., 21 days CA, 30 days TX, 15 days IL) to maximize urgency and click-through",
+          "Embed keyword-rich subject lines such as 'Security Deposit Demand Letter Template Inside' and 'Landlord Won't Return Security Deposit? Next Steps'",
+          "Provide pre-written body copy blocks that tenants can customize: move-in/move-out photo evidence, statutory citations, and triple-damages language",
+          "Link to an interactive demand letter generator that auto-populates state laws for California, Texas, Florida, Massachusetts, Colorado, and Washington",
+          "Close with a high-urgency CTA emphasizing that delays beyond the legal window can trigger penalties, interest, and small-claims court fees"
+        ],
+        "cta": "Generate your state-specific security deposit demand letter now \u2014 recover what's yours before the deadline expires.",
+        "target_audience": "US renters who have moved out within the past 6 months and have not received their full security deposit refund, or who have received unjust deductions, and need a fast, legally credible DIY recovery tool.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

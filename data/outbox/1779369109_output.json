@@ -1,0 +1,31 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779369059",
+  "timestamp": "2026-05-21T13:11:49.874517+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "3-Part Security Deposit Demand Email Sequence: Subject Lines, Body Copy & State Law Triggers",
+        "meta_description": "Landlord holding your deposit? Use this proven 3-email demand sequence with state-specific templates to recover your security deposit fast. Start free.",
+        "content_outline": [
+          "Email 1: Initial Demand \u2014 Subject: 'Action Required: Return Security Deposit for [Address]' \u2014 Body opens with move-out date, forwarding address proof, and state deadline reminder. Tone is firm but professional. Integrates the keyword 'security deposit demand letter template'.",
+          "Email 2: Statutory Urgency \u2014 Subject: 'Legal Deadline Passed: [State] Security Deposit Law [Code]' \u2014 Body cites specific state statute (e.g., CA Civ. \u00a71950.5, TX Prop. Code \u00a792.103), demands itemized deductions, and warns of statutory damages. Targets 'landlord won't return security deposit' and 'demand letter for security deposit'.",
+          "Email 3: Pre-Litigation Final Notice \u2014 Subject: 'Final Notice: Small Claims Filing in 48 Hours ([Address])' \u2014 Body states intent to file in small claims court for triple/double damages plus court costs unless full deposit is remitted immediately. Hard CTA to pay. Targets 'how to get security deposit back' and 'security deposit refund letter'."
+        ],
+        "key_points": [
+          "Subject lines use bracketed variables ([Address], [State], [Deadline]) to drive personalization and urgency.",
+          "Body copy escalates across three touchpoints: Professional Reminder \u2192 Statutory Warning \u2192 Pre-Litigation Notice.",
+          "Integrate transactional keywords organically: security deposit demand letter, security deposit return letter, how to write security deposit letter, and state-specific variants (California, Texas, Florida, Illinois, Massachusetts).",
+          "Each email references the state-mandated return window and penalty structure to maximize legal pressure without immediately hiring a lawyer.",
+          "Close every message with a DepositBack CTA to automate the next demand letter or small-claims filing packet."
+        ],
+        "cta": "Generate your state-specific security deposit demand letter now\u2014landlords respond faster when the law is quoted. Start your free demand letter in 60 seconds.",
+        "target_audience": "U.S. renters who have not received their security deposit or an itemized deduction list within their state's legal timeframe and need a fast, legally credible way to force compliance before small claims court.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

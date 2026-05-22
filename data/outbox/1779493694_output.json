@@ -1,0 +1,35 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779493661",
+  "timestamp": "2026-05-22T23:48:14.739527+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? How to Recover Your Money Fast",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights, what landlords can legally deduct, and how to write a demand letter that gets results.",
+        "content_outline": [
+          "Opening Hook: When the Landlord Won't Give Your Deposit Back",
+          "Can a Landlord Keep Your Security Deposit? (Know the Legal Limits)",
+          "What Landlords Can and Cannot Deduct From Your Deposit",
+          "Tenant Rights: How Long a Landlord Has to Return Your Deposit",
+          "What to Do When Your Landlord Is Not Returning Your Deposit",
+          "How to Write a Security Deposit Dispute Letter That Works",
+          "Escalation Tactics If Your Deposit Is Still Not Returned",
+          "FAQ: Addressing 'My Landlord Won't Give Me My Deposit Back'"
+        ],
+        "key_points": [
+          "Landlords must return security deposits within a state-specific timeframe, typically 14 to 30 days.",
+          "Normal wear and tear, unpaid rent, and excessive damage are the only categories where deductions may be legal.",
+          "A formal security deposit dispute letter is the most effective first step before filing in small claims court.",
+          "Document all communication, lease clauses, and move-out photos to strengthen your recovery case."
+        ],
+        "cta": "Stop waiting for a landlord who won't return your deposit. Use DepositBack to generate a legally sound, state-specific security deposit demand letter in minutes\u2014and put pressure on your landlord to pay up.",
+        "target_audience": "Frustrated US renters who are problem-aware, have had their security deposit withheld or not returned, and are actively searching for legal next steps and demand letter solutions.",
+        "word_count_target": 2500
+      }
+    }
+  ]
+}

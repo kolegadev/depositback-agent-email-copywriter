@@ -1,0 +1,32 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779457384",
+  "timestamp": "2026-05-22T13:44:17.170306+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "5 Urgent Email Templates to Recover a Withheld Security Deposit (Copy & Paste)",
+        "meta_description": "Landlord withholding your security deposit? Copy these 5 escalating email templates to demand your money back and protect your tenant rights today.",
+        "content_outline": [
+          "Email 1 \u2013 The Deadline Reminder: Subject: 'Security Deposit Overdue \u2013 [Property Address]'. Body: Cite your state\u2019s legal return deadline (e.g., CA 21 days, NY 14 days, TX 30 days), reference your certified move-out inspection, and request the full deposit back within 48 hours.",
+          "Email 2 \u2013 The Deduction Dispute: Subject: 'Re: Unauthorized Deductions on My Security Deposit'. Body: Reject vague cleaning or damage claims, demand itemized receipts and timestamped photos per state law, and clarify that normal wear and tear is not a deductible expense.",
+          "Email 3 \u2013 The Formal Demand: Subject: 'Final Demand: Return My Security Deposit Immediately'. Body: Summarize all prior unanswered communications, state the exact dollar amount owed, attach move-in and move-out photo evidence, and set a firm 7-day response deadline before escalation.",
+          "Email 4 \u2013 The Escalation Warning: Subject: 'Legal Action Pending \u2013 Security Deposit Violation [Case #]'. Body: Notify the landlord of your intent to file in small claims court, cite statutory penalties (up to 2x\u20133x the deposit amount in many states), and demand immediate payment to avoid litigation costs.",
+          "Email 5 \u2013 The Final Ultimatum: Subject: 'Suit Prepared: Last Chance to Return Deposit Before Filing'. Body: Deliver a final warning with the exact court filing date, reiterate the total amount due including statutory penalties, and provide wiring or certified-mail instructions for immediate return."
+        ],
+        "key_points": [
+          "Targets problem-aware keywords including 'landlord withholding security deposit,' 'security deposit not returned,' and 'what to do when landlord doesn't return deposit' with actionable, copy-paste email copy.",
+          "Emotional arc progresses from polite frustration to empowered legal urgency, matching the tenant\u2019s psychological journey and increasing landlord reply rates.",
+          "Incorporates state-specific deadlines and tenant rights language to establish legal credibility and pressure compliance without immediately hiring an attorney.",
+          "Each template is optimized for mobile inbox preview text and urgency triggers to maximize open rates during high-stress security deposit disputes."
+        ],
+        "cta": "Stop drafting emails that get ignored. Generate a state-specific, legally sound security deposit demand letter with DepositBack in under 5 minutes\u2014and recover what you're owed.",
+        "target_audience": "Problem-aware U.S. renters whose landlord is withholding or has not returned their security deposit, and who are actively searching for templates, deadlines, and legal next steps.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

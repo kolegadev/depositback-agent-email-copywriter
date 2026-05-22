@@ -1,0 +1,33 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779492948",
+  "timestamp": "2026-05-22T23:36:18.660282+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Demand Letter Email Sequence: Recover Your Money in 72 Hours",
+        "meta_description": "Stop waiting. Recover your security deposit with DepositBack's free demand letter templates\u2014built for renters in CA, TX, FL, and every US state.",
+        "content_outline": [
+          "Email 1: The Overdue Alert \u2014 Subject line and hook targeting 'landlord won't return security deposit' and state deadline anxiety",
+          "Email 2: The Demand Letter Toolkit \u2014 Body copy and template targeting 'security deposit demand letter template', 'how to write security deposit letter', and state-specific variants",
+          "Email 3: The Escalation Notice \u2014 Final demand targeting 'demand letter for security deposit' and small claims court readiness",
+          "Landing Page Hero: Homepage content block integrating 'security deposit return letter' and 'security deposit refund letter' messaging with urgency",
+          "Social Proof & FAQ: Addressing Reddit-style concerns and 'how to get security deposit back' objections to drive conversion"
+        ],
+        "key_points": [
+          "Email 1 Subject: 'It's been [X] days \u2014 where is your $[Amount] security deposit?' Body: Empathetic opener citing state law deadlines (CA 21 days, TX 30 days) and the pain point behind 'how to get security deposit back'.",
+          "Email 2 Subject: 'Your free security deposit demand letter template is ready ([State])' Body: Addresses 'how to write a demand letter for security deposit' by offering a plug-and-play template and previewing landlord deduction disputes.",
+          "Email 3 Subject: 'Final notice: Demand letter for security deposit return attached' Body: Hard deadline, mention of small claims court, and a CTA to send via DepositBack for certified delivery tracking.",
+          "Keyword layering: Use semantic equivalents like 'security deposit letter to landlord', 'letter to landlord about security deposit', and 'security deposit demand letter sample' naturally throughout body copy to capture long-tail search intent.",
+          "Urgency framework: Lead with financial recovery timelines, reference high-intent autocomplete queries (e.g., 'landlord won't return security deposit reddit'), and offer a 5-minute generation process to reduce friction."
+        ],
+        "cta": "Generate Your State-Specific Security Deposit Demand Letter \u2014 Start for Free",
+        "target_audience": "US renters and former tenants who have not received their security deposit refund within the legal deadline, are facing unjust deductions, or are actively searching for demand letter templates and DIY recovery tools.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

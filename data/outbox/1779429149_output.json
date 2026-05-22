@@ -1,0 +1,31 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779429112",
+  "timestamp": "2026-05-22T05:52:29.633418+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Recovery Email Sequence: Demand Letters That Get Results",
+        "meta_description": "Get your security deposit back with proven demand letter templates. State-specific formats for California, Texas, Florida & more.",
+        "content_outline": [
+          "Email 1: The Legal Deadline Trigger (Subject: 'Your $[X] deposit is now past due')",
+          "Email 2: State-Specific Demand Letter Templates (California, Texas, Florida, Illinois & More)",
+          "Email 3: Escalation Copy for When Landlords Won't Return Security Deposits",
+          "Email 4: Final Demand + Small Claims Court Preparation Checklist"
+        ],
+        "key_points": [
+          "Subject lines mentioning exact deposit amounts and state-mandated deadlines increase open rates by 40%+",
+          "Each email embeds downloadable demand letter templates targeting high-intent state keywords like 'security deposit demand letter california' and 'security deposit demand letter texas'",
+          "Urgency timers and legal-consequence framing drive clicks from renters searching 'how to get security deposit back' and 'landlord won't return security deposit'",
+          "Body copy addresses 'how to write security deposit letter' intent while automating the writing process via DepositBack's guided generator"
+        ],
+        "cta": "Generate your state-specific security deposit demand letter in 2 minutes \u2014 start your free deposit recovery now.",
+        "target_audience": "US renters who have moved out in the last 90 days and are waiting on unreturned or partially withheld security deposits, particularly in California, Texas, Florida, Illinois, and Massachusetts.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

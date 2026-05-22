@@ -1,0 +1,33 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779470780",
+  "timestamp": "2026-05-22T17:27:06.055697+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "5-Day Security Deposit Demand Letter Email Sequence for Renters",
+        "meta_description": "Recover your security deposit fast with our proven demand letter email sequence. State-specific templates for renters with unresponsive landlords.",
+        "content_outline": [
+          "Email 1 (Day 0): The Formal Demand \u2014 Security Deposit Return Letter",
+          "Email 2 (Day 3): The Follow-Up \u2014 How to Get Security Deposit Back Legally",
+          "Email 3 (Day 7): The Escalation \u2014 Demand Letter for Security Deposit with Statutory Deadlines",
+          "Email 4 (Day 10): The Warning \u2014 When Your Landlord Won't Return Security Deposit",
+          "Email 5 (Day 14): The Final Notice \u2014 Security Deposit Demand Letter Template Ready to Send"
+        ],
+        "key_points": [
+          "Subject lines must incorporate high-intent keywords: 'security deposit demand letter,' 'landlord won't return security deposit,' and 'security deposit refund letter' to maximize open rates and SEO relevance",
+          "Body copy opens with state-specific statutory deadlines (e.g., CA 21 days, TX 30 days, FL 15-60 days) and bad-faith penalty multiples to create immediate urgency and legal credibility",
+          "Each email uses personalization variables for deposit amount, move-out date, landlord name, and state to increase reply rates and drive demand letter generation",
+          "Progressive escalation structure: polite request \u2192 legal citation \u2192 penalty warning \u2192 small claims court threat \u2192 final demand with attached template",
+          "CTAs transition from educational ('See your state's deadline') to transactional ('Generate your security deposit demand letter now') to convert readers before the statutory window closes"
+        ],
+        "cta": "Generate Your State-Specific Security Deposit Demand Letter \u2014 Recover Your Deposit Before the Legal Deadline Expires",
+        "target_audience": "US renters who have moved out within the last 6 months and have not received their full security deposit refund or a legally compliant itemized deduction statement from their landlord or property management company",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

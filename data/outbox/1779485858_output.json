@@ -1,0 +1,31 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779485784",
+  "timestamp": "2026-05-22T21:37:38.424930+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Copy This 3-Email Demand Sequence to Get It Back",
+        "meta_description": "Is your landlord withholding your security deposit? Use this free email sequence to recover your money fast and protect your tenant rights.",
+        "content_outline": [
+          "Section 1: Know Your Rights\u2014What Landlords Can (and Cannot) Deduct From Your Security Deposit",
+          "Section 2: The 3-Part Demand Email Sequence (Subject Lines & Copy-and-Paste Body Copy)",
+          "Section 3: Escalation Plan\u2014What to Do When Your Landlord Still Won't Return Your Deposit"
+        ],
+        "key_points": [
+          "Landlords must return security deposits within state-specific deadlines (typically 14\u201360 days) and provide an itemized deduction list.",
+          "Email 1 (Day 1) Subject: 'Formal Demand for Return of Security Deposit \u2013 [Rental Address]'. Body: State move-out date, deposit amount, legal deadline, and request for full return or itemized deductions.",
+          "Email 2 (Day 7) Subject: 'Second Notice: Overdue Security Deposit \u2013 [Rental Address]'. Body: Cite state tenant law, challenge invalid deductions (e.g., normal wear and tear), and demand compliance within 7 days.",
+          "Email 3 (Day 14) Subject: 'Final Notice Before Small Claims Filing \u2013 [Rental Address]'. Body: State intent to pursue legal action for the full deposit plus statutory damages/court costs, reference attached photo/video evidence.",
+          "A documented demand letter is a legal prerequisite to sue in many states; DepositBack automates state-specific formatting and certified mail tracking to prove delivery."
+        ],
+        "cta": "Don't let your landlord keep what's yours. Generate your state-specific security deposit demand letter with DepositBack and send it with certified legal proof of delivery in minutes.",
+        "target_audience": "Frustrated US renters whose landlord is wrongfully withholding their security deposit, not returning it within the legal timeframe, or making unfair deductions, and who need an immediate, legally sound solution to recover their money.",
+        "word_count_target": 1200
+      }
+    }
+  ]
+}

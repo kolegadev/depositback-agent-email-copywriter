@@ -1,0 +1,32 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779550933",
+  "timestamp": "2026-05-23T15:43:28.274632+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Recovery Email Sequence: From \u2018Landlord Withholding Security Deposit\u2019 to Full Refund",
+        "meta_description": "Landlord withholding your security deposit? Know your rights and recover your money with a legally compliant demand letter in minutes.",
+        "content_outline": [
+          "Email 1 \u2014 The Hook: Subject \u2018Landlord withholding your security deposit? Read this before you contact them.\u2019 Body: Addresses \u2018landlord not returning deposit\u2019 and \u2018my landlord won\u2019t give me my deposit back\u2019 search intent; validates frustration and warns that state deadlines are ticking.",
+          "Email 2 \u2014 The Education: Subject \u2018What can a landlord deduct from your deposit? (Probably not that.)\u2019 Body: Breaks down permissible vs. wrongful deductions, targets \u2018can landlord keep security deposit\u2019 and \u2018what can landlord deduct from security deposit\u2019 keywords, and introduces normal wear and tear rules.",
+          "Email 3 \u2014 The Urgency: Subject \u2018Security deposit not returned? Your legal window is closing.\u2019 Body: Focuses on state-specific return windows (21/30/45/60 days), answers \u2018is my landlord required to return my deposit,\u2019 and escalates fear of forfeiture and triple-damage liability.",
+          "Email 4 \u2014 The Action: Subject \u2018Your security deposit dispute letter is ready to send.\u2019 Body: Solves \u2018what to do when landlord doesn\u2019t return deposit,\u2019 introduces DepositBack\u2019s automated demand letter, and pushes immediate recovery action with a hard deadline CTA."
+        ],
+        "key_points": [
+          "Primary keywords woven into subject lines and body angles: landlord withholding security deposit, landlord not returning deposit, security deposit not returned, tenant rights security deposit, and security deposit dispute letter.",
+          "Emotional hook mirrors frustrated tenant language (e.g., \u2018my landlord won\u2019t give me my deposit back\u2019) to build trust and Reddit-level rapport.",
+          "Urgency drivers include state deadline countdowns, automatic forfeiture rules, and statutory penalty threats to compel opens and clicks.",
+          "Sequence structure follows Educate \u2192 Agitate \u2192 Solve: validate the problem in Email 1, teach rights in Email 2, escalate deadline fear in Email 3, and deliver the DepositBack solution in Email 4.",
+          "CTA escalation: soft educational link in Email 1, rights checklist in Email 2, deadline calculator in Email 3, and the demand letter generator with recovery guarantee in Email 4."
+        ],
+        "cta": "Generate your state-specific security deposit demand letter in under 5 minutes. Get your money back before your legal window closes.",
+        "target_audience": "Problem-aware US renters whose landlords are withholding, delaying, or refusing to return security deposits and who are actively searching online for their rights and recovery options.",
+        "word_count_target": 2400
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779499751",
+  "timestamp": "2026-05-23T01:30:13.109572+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Demand Letter Email Sequence: Recover Your Deposit in 7 Days",
+        "meta_description": "Recover your security deposit fast with our demand letter email sequence. Free state-specific templates for CA, TX, FL & more. No lawyer needed. Start now.",
+        "content_outline": [
+          "Introduction: The Landlord Won't Return Your Security Deposit\u2014Here's Your Battle Plan",
+          "Email 1: The Initial Security Deposit Demand Letter (Subject Line & Body Copy)",
+          "Email 2: The Statutory Deadline Warning (Subject Line & Escalation Copy)",
+          "Email 3: The Final Notice Before Small Claims (Subject Line & Ultimatum Copy)",
+          "How to Write a Security Deposit Demand Letter Template for Your State (CA, TX, FL, NY, IL, MA)",
+          "Delivery Tactics: Certified Mail vs. Email for Maximum Legal Leverage",
+          "What to Do If You Still Can't Get Your Security Deposit Back"
+        ],
+        "key_points": [
+          "Email 1 Subject: 'Formal Demand: Return of Security Deposit - [Your Rental Address]' \u2014 Body cites move-out date, deposit amount paid, and state-mandated return deadline, requesting full refund within 7 days.",
+          "Email 2 Subject: 'Second Notice: Security Deposit Overdue Under [State] Law' \u2014 Body references the initial demand letter, cites specific state statute (e.g., CA Civ. Code \u00a7 1950.5, TX Prop. Code \u00a7 92.103), and warns of legal action and statutory penalties.",
+          "Email 3 Subject: 'Final Demand: Small Claims Filing Within 7 Days' \u2014 Body states intent to file in small claims court for triple damages, interest, and court costs where applicable, creating maximum urgency.",
+          "Target high-intent transactional keywords naturally: security deposit demand letter template, how to get security deposit back, demand letter for security deposit, security deposit refund letter, and state-specific variants for California, Texas, Florida, Illinois, Massachusetts, Washington, and Colorado.",
+          "Each email template is designed to be copied directly or auto-generated via DepositBack to ensure legally compliant language without hiring an attorney.",
+          "Include a downloadable security deposit return letter PDF and a checklist of landlord deduction disputes to increase page value and conversion."
+        ],
+        "cta": "Don't write your demand letter from scratch. Use DepositBack to generate your state-specific, court-ready security deposit demand letter in under 5 minutes\u2014start free, pay only when you're ready to send.",
+        "target_audience": "US renters who have moved out and whose landlord is withholding or has failed to return their security deposit within the state-mandated legal timeframe, and who need a professional email sequence or demand letter template to recover their money.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

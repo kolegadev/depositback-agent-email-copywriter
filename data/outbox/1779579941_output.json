@@ -1,0 +1,32 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779579884",
+  "timestamp": "2026-05-23T23:45:41.053931+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Demand Letter Email Sequence: Recover Your Deposit Fast",
+        "meta_description": "Get your security deposit back with state-specific demand letter templates. Our 3-part email sequence creates urgency and legal pressure to recover your deposit.",
+        "content_outline": [
+          "Email 1 (Day 1): Initial Demand \u2014 Subject: 'Action Required: Return My Security Deposit Within [State Deadline] Days'; Body establishes move-out date, forwarding address, and polite but firm request citing state landlord-tenant law.",
+          "Email 2 (Day 7): Escalation \u2014 Subject: 'Second Notice: Security Deposit Overdue + Potential Legal Action'; Body details statutory penalty threats, disputes improper deductions, and shifts tone to formal demand.",
+          "Email 3 (Day 14): Final Notice \u2014 Subject: 'Final Demand Before Small Claims Filing \u2014 Security Deposit Owed'; Body delivers ultimatum with certified mail tracking, calculated damages/interest, and DepositBack template attachment.",
+          "Post-Sequence Content: How to Write a Security Deposit Demand Letter That Works \u2014 SEO article targeting 'security deposit demand letter template', 'security deposit refund letter', and 'landlord won't return security deposit'."
+        ],
+        "key_points": [
+          "Subject lines must create urgency by referencing overdue deadlines and legal consequences to maximize open rates",
+          "Reference state-specific landlord-tenant statutes and statutory penalty multipliers in every email body to increase compliance pressure",
+          "Integrate transactional keywords naturally: 'security deposit demand letter template', 'how to get security deposit back', and 'demand letter for security deposit'",
+          "Every email ends with a clear CTA to generate a formal, state-compliant demand letter via DepositBack and send via certified mail",
+          "Use short, mobile-optimized paragraphs with bolded deadlines and click-to-generate buttons to serve renters researching on their phones"
+        ],
+        "cta": "Generate your state-specific security deposit demand letter now and send it via certified mail today.",
+        "target_audience": "US renters who have moved out and whose landlords have failed to return their security deposit within the legally required state timeframe.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

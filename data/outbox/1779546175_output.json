@@ -1,0 +1,36 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779546110",
+  "timestamp": "2026-05-23T14:22:55.933663+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Recovery Email Sequence: Demand Letter Templates for Renters",
+        "meta_description": "Get your security deposit back with our demand letter email sequence. Free templates for California, Texas, Florida & all 50 states. Start your claim now.",
+        "content_outline": [
+          "Email 1 (Day 1): The Initial Security Deposit Return Letter \u2014 Friendly but firm refund request citing state-specific landlord deadlines",
+          "Email 2 (Day 3): The Formal Demand Letter for Security Deposit \u2014 Escalated tone with legal statute references and itemized deduction disputes",
+          "Email 3 (Day 7): Final Notice Before Small Claims \u2014 Ultimatum email triggering immediate action when the landlord won't return the security deposit",
+          "Onboarding Flow: How to write a security deposit letter to your landlord using our auto-filled template, certified mail tracking, and state law engine"
+        ],
+        "key_points": [
+          "Subject Line 1: 'Your security deposit return letter is ready \u2014 deadline approaching in [State]'",
+          "Subject Line 2: 'Landlord won't return security deposit? Send this demand letter template now'",
+          "Subject Line 3: 'Final notice: Legal action pending on your security deposit refund letter'",
+          "Body Copy Hook (Email 1): Open with a soft reminder that state law requires your deposit returned within X days and request immediate compliance",
+          "Body Copy Angle (Email 2): Deploy the formal demand letter for security deposit return, disputing unjust deductions and citing your rights as a renter",
+          "Body Copy Urgency (Email 3): Warn that failure to remit payment within 72 hours will result in small claims court filing and statutory penalty claims",
+          "Template Feature: Provide a fill-in-the-blank security deposit letter to landlord that auto-populates state statutes, tenant info, and mailing address",
+          "SEO Integration: Naturally weave in 'how to get security deposit back,' 'how to write security deposit letter,' 'security deposit refund letter,' and 'letter to landlord about security deposit' within headers and preview text",
+          "Conversion Booster: Emphasize that certified mail delivery and legal paper trail generation recover deposits up to 3x faster than informal text or email requests"
+        ],
+        "cta": "Generate Your Free Security Deposit Demand Letter Now \u2014 Get State-Specific Legal Language, Certified Mail Tracking, and Deposit Recovery Tools in Under 5 Minutes",
+        "target_audience": "US renters who have moved out within the last 30-60 days and whose landlords have failed to return their security deposit, provided unjust deductions, or ignored refund requests",
+        "word_count_target": 1200
+      }
+    }
+  ]
+}

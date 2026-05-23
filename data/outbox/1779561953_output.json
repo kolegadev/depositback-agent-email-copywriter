@@ -1,0 +1,35 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779561888",
+  "timestamp": "2026-05-23T18:45:53.297359+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Demand It Back in 5 Steps",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights, what deductions are illegal, and how to write a demand letter that gets results.",
+        "content_outline": [
+          "Introduction: The Frustration of a Missing Security Deposit",
+          "Is Your Landlord Allowed to Keep Your Deposit? Know the Law",
+          "What a Landlord Can (and Cannot) Deduct From Your Security Deposit",
+          "State-by-State Deadlines: How Long a Landlord Has to Return Your Deposit",
+          "What to Do When Your Landlord Won't Return Your Deposit",
+          "How to Write a Security Deposit Dispute Letter That Works",
+          "Escalating to Small Claims Court and How DepositBack Helps",
+          "Conclusion and Next Steps"
+        ],
+        "key_points": [
+          "Most states require landlords to return security deposits within 14\u201330 days and provide an itemized deduction list",
+          "Normal wear and tear, such as faded paint or minor carpet wear, cannot legally be deducted",
+          "A professionally written demand letter is often the fastest, most affordable way to recover a withheld deposit",
+          "DepositBack generates state-compliant security deposit demand letters tailored to your situation in minutes"
+        ],
+        "cta": "Don't let your landlord keep what's yours. Generate your state-compliant security deposit demand letter in under 5 minutes and start your recovery today.",
+        "target_audience": "Frustrated US renters dealing with landlords wrongfully withholding, delaying, or refusing to return their security deposit",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

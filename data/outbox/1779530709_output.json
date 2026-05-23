@@ -1,0 +1,31 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779530556",
+  "timestamp": "2026-05-23T10:05:09.338433+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "3-Email Security Deposit Recovery Sequence: Demand Letter Urgency Campaign",
+        "meta_description": "Recover your security deposit fast. Use state-specific demand letter templates and send a demand letter for security deposit recovery before your deadline. Start free.",
+        "content_outline": [
+          "Email 1 \u2014 The Deadline Alert: Subject line targets 'landlord won't return security deposit' and 'how to get security deposit back'; body opens with state-mandated return windows (CA 21 days, NY 14 days, TX 30 days) and warns of triple-damage liability.",
+          "Email 2 \u2014 The Template & Proof: Subject line leads with 'security deposit demand letter template' and 'how to write security deposit letter'; body showcases DepositBack's state-specific generator, legal citation auto-fill, and certified mail instructions.",
+          "Email 3 \u2014 Final Escalation: Subject line uses 'security deposit return letter' and 'security deposit refund letter'; body frames the demand letter as the final written proof required before small claims court, reinforcing urgency to act before evidence grows stale."
+        ],
+        "key_points": [
+          "Subject 1: 'Your landlord has 14 days. Where's your $[Amount] security deposit?' \u2014 Body hook: countdown to state deadline + legal penalties for non-payment.",
+          "Subject 2: 'Free security deposit demand letter template (ready in 60 seconds)' \u2014 Body hook: no lawyer needed; auto-generates a demand letter for security deposit with proper state statutes.",
+          "Subject 3: 'Last notice: Send your security deposit refund letter before suing' \u2014 Body hook: positions the security deposit return letter as the final documentation needed to recover double or treble damages.",
+          "Keyword integration: security deposit demand letter, letter to landlord about security deposit, security deposit letter to landlord, demand letter for security deposit, and security deposit refund letter woven naturally into body copy.",
+          "Urgency drivers: ticking statutory deadlines, threat of forfeiture, court cost recovery, and certified-mail tracking to prove delivery."
+        ],
+        "cta": "Generate your free security deposit demand letter now and recover what's yours before the legal deadline passes.",
+        "target_audience": "U.S. renters who have moved out within the last 30-60 days and have not received their security deposit refund, especially those facing non-responsive landlords or unfair deductions.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779524079",
+  "timestamp": "2026-05-23T08:16:45.266332+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Recovery Email Sequence: From First Demand to Final Deadline",
+        "meta_description": "Landlord withholding your security deposit? Use this 3-email demand sequence with proven subject lines to recover your deposit fast. State law deadlines inside.",
+        "content_outline": [
+          "Email 1: The Polite-but-Firm Initial Demand \u2013 Subject: 'Re: [Address] Security Deposit Not Returned \u2013 Timeline Request'; Body establishes move-out date, reminds landlord of the legal return deadline, and asks for a full refund timeline",
+          "Email 2: The Rights & Deduction Dispute \u2013 Subject: 'Tenant Rights: Security Deposit Owed for [Address]'; Body cites state law, challenges wrongful deductions, and answers 'what can landlord deduct from security deposit'",
+          "Email 3: Final Demand Before Legal Action \u2013 Subject: 'Landlord Withholding Security Deposit \u2013 Final Notice Before Small Claims'; Body demands full repayment by a specific date, cites statutory damages, and states intent to file suit"
+        ],
+        "key_points": [
+          "Subject lines embed exact-match keywords like 'landlord withholding security deposit,' 'security deposit not returned,' and 'tenant rights security deposit' to capture high-intent search traffic",
+          "Body copy addresses top renter concerns: 'My landlord won't give me my deposit back,' 'Can landlord keep security deposit?' and 'What to do when landlord doesn't return deposit'",
+          "Three-part escalation framework: cooperative timeline request \u2192 legal citation and deduction dispute \u2192 final deadline with small-claims threat",
+          "Each email includes personalized placeholders for state statute, deposit amount, move-out date, and refund deadline to maximize conversion and urgency",
+          "Seamless transition to DepositBack's automated demand letter service for tenants ready to escalate beyond email"
+        ],
+        "cta": "Draft Your Official Demand Letter in 3 Minutes \u2013 Start for Free",
+        "target_audience": "Problem-aware US renters searching for help because their landlord is not returning a security deposit, who need fast legal leverage without the cost of an attorney",
+        "word_count_target": 1200
+      }
+    }
+  ]
+}

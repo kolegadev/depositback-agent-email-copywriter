@@ -1,0 +1,36 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779513917",
+  "timestamp": "2026-05-23T05:26:28.315489+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Demand Letter Email Sequence: Recover Your Deposit Fast",
+        "meta_description": "Landlord won't return your security deposit? Use our proven demand letter sequence and state-specific templates to recover your deposit today.",
+        "content_outline": [
+          "The Problem: Why Landlords Ignore Security Deposit Return Requests",
+          "Email 1 \u2014 Subject & Body: Initial Security Deposit Refund Letter (Polite but Firm)",
+          "Email 2 \u2014 Subject & Body: Formal Demand Letter for Security Deposit (Statutory Deadline Cited)",
+          "Email 3 \u2014 Subject & Body: Final Notice Before Small Claims Court (Escalated Urgency)",
+          "State-by-State Customization: California, Texas, Florida, Massachusetts & More",
+          "Delivery Tips: Certified Mail, Proof of Move-Out, and Documentation Checklist",
+          "Next Steps: What to Do If Your Landlord Still Won't Return Your Deposit"
+        ],
+        "key_points": [
+          "Subject lines should reference the exact address and 'Security Deposit Return Letter' to ensure legal clarity and inbox placement",
+          "Each email escalates tone from professional request to formal statutory demand, citing state-specific landlord-tenant deadlines",
+          "Body copy must include move-out date, total deposit amount, forwarding address, and the state-mandated return window to be court-ready",
+          "A written security deposit demand letter creates the paper trail required before filing in small claims court",
+          "State-specific templates for California, Texas, Florida, Illinois, and Massachusetts increase recovery rates by citing local statutes by name",
+          "Sending your security deposit letter to landlord via certified mail with return receipt provides court-admissible proof of delivery"
+        ],
+        "cta": "Don't write it alone. Generate your state-specific security deposit demand letter in under 5 minutes and start your recovery today\u2014no lawyer required.",
+        "target_audience": "US renters who have moved out and whose landlords have failed to return their security deposit within the state-mandated legal timeframe",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

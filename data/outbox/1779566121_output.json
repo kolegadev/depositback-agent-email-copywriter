@@ -1,0 +1,50 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779566023",
+  "timestamp": "2026-05-23T19:55:21.739788+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here's How to Fight Back and Win",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights, what landlords can deduct, and how to send a demand letter that gets your money back.",
+        "content_outline": [
+          "Why Landlords Withhold Security Deposits (And Why Most Excuses Are Illegal)",
+          "Tenant Rights: How Long Does a Landlord Have to Return Your Deposit?",
+          "What Can a Landlord Deduct from Your Security Deposit vs. Normal Wear and Tear",
+          "What to Do When Your Landlord Doesn't Return Your Deposit: A Step-by-Step Guide",
+          "How to Write a Security Deposit Dispute Letter That Actually Gets Results"
+        ],
+        "key_points": [
+          "Most states require landlords to return security deposits within 14\u201360 days and provide an itemized deduction list",
+          "Normal wear and tear, routine cleaning, and minor scuffs cannot be deducted from your deposit in most jurisdictions",
+          "A formal demand letter is legally required before small claims court in many states and often forces immediate payment",
+          "DepositBack generates state-specific, legally compliant security deposit demand letters in under 5 minutes"
+        ],
+        "cta": "Stop waiting. Generate your state-specific security deposit demand letter with DepositBack in minutes and force your landlord to respond.",
+        "target_audience": "Frustrated US renters who have moved out and are dealing with a landlord not returning their security deposit or making unlawful deductions",
+        "word_count_target": 800,
+        "email_sequence": [
+          {
+            "subject": "Your landlord is withholding your security deposit. Now what?",
+            "body": "Hi [First Name],\n\nMoving is stressful enough without your landlord keeping money that belongs to you. If your landlord is withholding your security deposit\u2014or sent a vague list of deductions\u2014you're not powerless.\n\nEvery state has strict deadlines. In many places, if your security deposit is not returned within 30 days with an itemized statement, your landlord forfeits the right to keep a dime.\n\nTomorrow, I'll show you exactly what your landlord can and cannot deduct. Spoiler: \"cleaning\" and \"fresh paint\" usually aren't valid reasons.\n\nStay tuned,\n[Name]"
+          },
+          {
+            "subject": "What can a landlord deduct from your security deposit? (Hint: Not \"cleaning\")",
+            "body": "Hi [First Name],\n\nLet's talk about what your landlord can actually deduct from your security deposit.\n\nLegally? Unpaid rent and damage beyond normal wear and tear. That's it.\n\nCarpet worn from walking? Not deductible. Small nail holes? Not deductible. General cleaning? Not deductible.\n\nIf your landlord won't give you your deposit back for these \"reasons,\" they're likely violating state law. Many tenants don't know this\u2014and landlords count on your silence.\n\nKnowledge is power, but action gets checks cashed. I'll show you the exact next step tomorrow.\n\n[Name]"
+          },
+          {
+            "subject": "The security deposit dispute letter that makes landlords pay attention",
+            "body": "Hi [First Name],\n\nYou've asked nicely. You've waited. Still no deposit.\n\nIt's time to escalate with a security deposit dispute letter that cites your state's specific landlord-tenant statutes.\n\nWhy? Because a properly written demand letter triggers legal deadlines. It shows you know your rights. And in most states, it is a prerequisite for suing\u2014and winning\u2014double or triple damages.\n\nBut writing one yourself is risky. Wrong format? Wrong statute? Your landlord ignores it.\n\nThat's why I built DepositBack. We generate a state-specific, legally compliant demand letter in minutes using the same language attorneys use.\n\n[CTA Link]\n\nThe longer you wait, the harder your case gets. Send your letter today.\n\n[Name]"
+          },
+          {
+            "subject": "Last chance: Don't let your landlord keep your money",
+            "body": "Hi [First Name],\n\nIf your security deposit is not returned yet, every day that passes weakens your position.\n\nYou might be wondering, \"Is my landlord required to return my deposit?\" Yes. With strict deadlines. And if they missed them, you could be owed far more than your original deposit.\n\nDon't let anxiety or procrastination cost you hundreds\u2014or thousands\u2014of dollars.\n\nWith DepositBack, you can have a professional demand letter ready to send in under 5 minutes. No legal jargon to learn. No expensive attorney fees. Just your money, headed back to your pocket.\n\n[CTA Link]\n\nGet your deposit back,\n[Name]"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779536234",
+  "timestamp": "2026-05-23T11:37:29.936751+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Demand Letter Email Sequence: Recover Your Deposit in Days",
+        "meta_description": "Free security deposit demand letter template & 5-part email sequence. Recover your rental deposit fast with state-specific letters for CA, TX, FL, NY & more.",
+        "content_outline": [
+          "Hook & Pain Point: The Landlord Deadline Trap",
+          "Email 1: Friendly but Firm Initial Deposit Request",
+          "Email 2: State-Specific Legal Deadline Warning",
+          "Email 3: Certified Security Deposit Demand Letter",
+          "Email 4: Final Notice Before Small Claims Filing",
+          "Email 5: Settlement & Recovery Confirmation",
+          "Social Proof: DepositBack Recovery Stats & Testimonials",
+          "FAQ: How to Write a Demand Letter for Security Deposit",
+          "Primary CTA: Generate Your State-Specific Letter Instantly"
+        ],
+        "key_points": [
+          "Most states require landlords to return security deposits within 14\u201360 days; missing this deadline makes the demand letter legally urgent",
+          "A written demand letter increases recovery probability by 3x compared to text or verbal requests",
+          "The email sequence mirrors legal escalation: request \u2192 warning \u2192 certified demand \u2192 pre-litigation \u2192 settlement",
+          "Subject lines must include state-specific triggers (e.g., 'California Civil Code 1950.5 Demand') to maximize open rates and compliance",
+          "Renters do not need an attorney to send a valid demand letter; DepositBack automates state law citations and certified delivery",
+          "Urgency is driven by statutory penalties\u2014landlords may owe 2\u20133x the deposit amount for non-compliance in many states"
+        ],
+        "cta": "Generate Your Free Security Deposit Demand Letter in 2 Minutes",
+        "target_audience": "US renters who have moved out within the last 6\u201312 months and have not received their full security deposit refund, or received unjustified deductions, and need a fast, legally credible way to demand repayment without hiring a lawyer",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

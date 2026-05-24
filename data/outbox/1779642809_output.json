@@ -1,0 +1,33 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779642780",
+  "timestamp": "2026-05-24T17:13:29.825480+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here\u2019s What to Do Next",
+        "meta_description": "Is your landlord withholding your security deposit? Know your rights, what deductions are legal, and how to demand your money back fast.",
+        "content_outline": [
+          "Introduction: When Your Landlord Won't Give You Your Deposit Back",
+          "Know Your Rights: How Long Does a Landlord Have to Return a Deposit?",
+          "What Can a Landlord Deduct? Understanding Legal vs. Illegal Charges",
+          "What to Do When Your Landlord Is Withholding Your Security Deposit",
+          "Writing an Effective Security Deposit Dispute Letter",
+          "Next Steps: Escalating Your Claim and Getting Your Money Back"
+        ],
+        "key_points": [
+          "Landlords must return security deposits within a state-specific timeframe, typically between 14 and 60 days.",
+          "Normal wear and tear is not a valid deduction; landlords can only withhold funds for unpaid rent, damage beyond normal use, or cleaning required by the lease.",
+          "Sending a formal demand letter is a critical step that often compels landlords to return the deposit before a small claims court case becomes necessary.",
+          "Using a state-compliant demand letter service like DepositBack can streamline the process and improve recovery outcomes."
+        ],
+        "cta": "Don\u2019t let your landlord keep what\u2019s yours. Generate your state-specific security deposit demand letter with DepositBack in minutes and take the first step toward getting your money back.",
+        "target_audience": "Frustrated US renters whose landlord is withholding, keeping, or not returning a security deposit and who need actionable legal guidance to recover their money quickly.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

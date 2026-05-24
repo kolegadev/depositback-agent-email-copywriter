@@ -1,0 +1,33 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779587397",
+  "timestamp": "2026-05-24T01:51:30.234184+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Recover It Now",
+        "meta_description": "Landlord withholding your security deposit? Learn tenant rights, illegal deductions, and how a demand letter gets your money back fast.",
+        "content_outline": [
+          "Email 1: The Wake-Up Call \u2014 'Your deposit is missing. Here are the 3 laws your landlord is probably breaking.'",
+          "Email 2: The Reality Check \u2014 'What a landlord can (and cannot) legally deduct from your security deposit.'",
+          "Email 3: The Action Plan \u2014 'How to write a security deposit dispute letter that forces a response.'",
+          "Email 4: The Final Push \u2014 'Deadline approaching: escalate your claim before you lose leverage.'"
+        ],
+        "key_points": [
+          "Subject Line A: 'Your landlord kept $[X]. Here's your 48-hour recovery plan.'",
+          "Subject Line B: 'Can a landlord keep your entire deposit? (Hint: Probably not.)'",
+          "Subject Line C: 'The security deposit dispute letter that gets instant replies.'",
+          "Most states require landlords to return deposits within 14\u201330 days or face statutory penalties.",
+          "Normal wear and tear is not deductible; only unpaid rent and damage beyond ordinary use.",
+          "A formal demand letter is the fastest, cheapest escalation step before small claims court."
+        ],
+        "cta": "Don't let your landlord keep what's yours. Create your state-specific security deposit demand letter with DepositBack in under 5 minutes and force a response.",
+        "target_audience": "Frustrated US renters dealing with landlords withholding security deposits, ignoring move-out deadlines, or making illegal deductions.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

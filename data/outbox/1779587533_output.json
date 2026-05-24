@@ -1,0 +1,36 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779587490",
+  "timestamp": "2026-05-24T01:52:13.513459+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Demand Letter Email Sequence: Recover Your Deposit Fast",
+        "meta_description": "Recover your security deposit fast with our free demand letter templates. State-specific emails for CA, TX, FL & more. Start your claim in 60 seconds.",
+        "content_outline": [
+          "Introduction: Why acting fast matters when your landlord won't return your security deposit",
+          "Email 1 \u2014 Initial Request: Subject line, body copy, and timing for your first security deposit return letter",
+          "Email 2 \u2014 Formal Demand: Subject line, body copy, and how to use a security deposit demand letter template citing state law",
+          "Email 3 \u2014 Final Notice: Subject line, body copy, and escalation before small claims court",
+          "State-by-State Customization: Tailoring your demand letter for security deposit recovery in California, Texas, Florida, Illinois, and more",
+          "How to Write a Security Deposit Letter That Gets Results: Tone, delivery method, and legal citations",
+          "FAQ & Next Steps: What to do if your landlord ignores your security deposit refund letter"
+        ],
+        "key_points": [
+          "Subject Line 1: 'Immediate Action Required: Return My Security Deposit Within [State Deadline]'",
+          "Subject Line 2: 'Formal Demand Letter for Security Deposit \u2014 [State] Statute Compliance'",
+          "Subject Line 3: 'Final Notice: Legal Action Pending on Unpaid Security Deposit'",
+          "Body copy drives urgency by citing exact state deadlines and certified mail tracking",
+          "Free, fillable security deposit demand letter template optimized for landlord response",
+          "Targets transactional intent for renters searching 'how to get security deposit back' and 'security deposit letter to landlord'"
+        ],
+        "cta": "Generate Your Free State-Specific Security Deposit Demand Letter \u2014 Start Recovering Your Deposit in 60 Seconds",
+        "target_audience": "US renters and former tenants whose landlords have failed to return a security deposit within the legally required timeframe",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

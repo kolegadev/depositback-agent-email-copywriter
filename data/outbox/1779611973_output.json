@@ -1,0 +1,35 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779611935",
+  "timestamp": "2026-05-24T08:39:33.559596+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here's How to Get It Back Fast",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights, what landlords can legally deduct, and how to demand your money back today.",
+        "content_outline": [
+          "Introduction: The Frustration of a Withheld Security Deposit",
+          "Is My Landlord Required to Return My Deposit? Know the Legal Deadlines",
+          "What Can a Landlord Deduct from Your Security Deposit? (And What They Can't)",
+          "Can a Landlord Keep Your Security Deposit? Understanding Wrongful Withholding",
+          "What to Do When Your Landlord Doesn't Return Your Deposit: A Step-by-Step Guide",
+          "How to Write an Effective Security Deposit Dispute Letter",
+          "When to Escalate: Small Claims Court and Beyond",
+          "Conclusion: Take Action Before Time Runs Out"
+        ],
+        "key_points": [
+          "Landlords must return security deposits within a strict state-specific timeframe, typically between 14 and 45 days",
+          "Normal wear and tear, minor scuffs, and routine cleaning cannot be legally deducted from your deposit",
+          "A professionally written demand letter is the fastest, most effective first step to recover your money without immediately going to court",
+          "DepositBack generates state-compliant security deposit demand letters in minutes, applying legal pressure so landlords pay attention"
+        ],
+        "cta": "Stop waiting and start recovering. Create your state-specific security deposit demand letter with DepositBack in under 10 minutes\u2014no lawyer needed.",
+        "target_audience": "Frustrated US renters whose landlords are withholding, delaying, or wrongfully deducting from their security deposit and need immediate, actionable guidance on tenant rights and recovery steps",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

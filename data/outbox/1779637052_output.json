@@ -1,0 +1,33 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779636958",
+  "timestamp": "2026-05-24T15:37:32.111976+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "3-Day Security Deposit Recovery Email Sequence: From Warning to Demand",
+        "meta_description": "Recover your security deposit fast. Get our proven 3-day email sequence with demand letter templates, state law triggers, and final notice copy.",
+        "content_outline": [
+          "Email 1: The 72-Hour Warning \u2014 Subject line and body copy agitating the problem when a landlord won't return a security deposit, establishing urgency and the cost of inaction",
+          "Email 2: The State Law Trigger \u2014 Subject line and body copy educating the renter on how a formal security deposit demand letter activates statutory deadlines and penalty liability in states like California, Texas, and Florida",
+          "Email 3: The Final Demand \u2014 Subject line and body copy delivering the security deposit demand letter template CTA with hard recovery urgency and social proof"
+        ],
+        "key_points": [
+          "Subject Line 1: '[First Name], your landlord is betting you forget this'",
+          "Subject Line 2: 'RE: Legal deadline to return your security deposit (template attached)'",
+          "Subject Line 3: 'FINAL NOTICE: Your security deposit recovery window closes soon'",
+          "Body Copy Hook 1: Verbal requests get ignored; a certified security deposit letter to landlord creates a legally timestamped paper trail that courts and small-claims judges recognize",
+          "Body Copy Hook 2: Most states impose double\u2014or even triple\u2014damages when landlords miss deposit return deadlines; a demand letter for security deposit is the required first step to unlock those penalties",
+          "Body Copy Hook 3: The sequence transitions from education to transaction by offering a state-customized security deposit demand letter template generated in under three minutes",
+          "Urgency Frame: Landlords return deposits fastest when threatened with documented, state-specific statutory violations rather than informal text or email complaints"
+        ],
+        "cta": "Generate Your Free Security Deposit Demand Letter Now",
+        "target_audience": "US renters whose lease has ended and whose landlord has failed to return their security deposit within the state-mandated timeframe, seeking a fast, legally sound recovery solution without hiring an attorney",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

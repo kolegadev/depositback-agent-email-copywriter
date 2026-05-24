@@ -1,0 +1,36 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779618129",
+  "timestamp": "2026-05-24T10:23:31.243459+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "The 5-Email Sequence to Recover a Withheld Security Deposit",
+        "meta_description": "Frustrated by a landlord withholding your security deposit? Recover your money fast with this 5-part urgency-driven email sequence.",
+        "content_outline": [
+          "Introduction: The real cost of a landlord withholding your security deposit and why response timing determines recovery success",
+          "The 5-Day Email Sequence Strategy: How escalating urgency turns landlord silence into prompt repayment",
+          "Email 1 \u2013 The Soft Reminder: Subject line and body copy targeting landlord not returning deposit intent with a professional, documented nudge",
+          "Email 2 \u2013 The Rights Check: Subject line and body copy leveraging is my landlord required to return my deposit to cite state deadlines and tenant rights",
+          "Email 3 \u2013 The Deduction Dispute: Subject line and body copy addressing what can landlord deduct from security deposit and rebutting wrongful claims",
+          "Email 4 \u2013 The Formal Demand: Subject line and body copy using security deposit dispute letter and security deposit not returned to escalate tone and set a hard deadline",
+          "Email 5 \u2013 The Escalation Notice: Subject line and body copy for my landlord won't give me my deposit back scenarios that threaten small claims and legal action",
+          "How to Automate Your Final Demand: Using DepositBack to send a state-specific demand letter in under 3 minutes when email is not enough"
+        ],
+        "key_points": [
+          "Subject lines embed exact-match keywords like landlord withholding security deposit and security deposit not returned to maximize SEO relevance and inbox open rates",
+          "Body copy follows an escalating urgency arc: polite reminder on Day 1, legal rights on Day 2, deduction rebuttal on Day 3, formal demand on Day 4, and litigation warning on Day 5",
+          "Each email contains a specific deadline and consequence such as If the deposit is not returned by Friday I will file a formal dispute to compel immediate landlord action",
+          "Copy validates the frustrated tenant emotional hook by acknowledging unfair treatment then channeling anger into documented legally sound next steps",
+          "The sequence bridges to DepositBack by offering a free demand letter template in the article and driving to the automated generator for tenants ready to escalate instantly"
+        ],
+        "cta": "Stop waiting. Send your free, state-specific security deposit demand letter in under 3 minutes and force your landlord to respond.",
+        "target_audience": "Problem-aware US renters actively searching for solutions to a landlord withholding, delaying, or wrongfully deducting their security deposit; emotionally frustrated but seeking structured legal next steps to recover their money.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779628740",
+  "timestamp": "2026-05-24T13:21:06.975720+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Security Deposit? 3 Demand Emails to Get It Back Fast",
+        "meta_description": "Your landlord is withholding your security deposit? Use these 3 proven demand emails and learn your tenant rights to recover your money fast.",
+        "content_outline": [
+          "Introduction: When Your Landlord Is Withholding Your Security Deposit",
+          "Know the Law: Can a Landlord Keep Your Deposit & What Can They Actually Deduct?",
+          "Email 1 \u2013 Initial Demand: Subject Line & Body Copy for a Security Deposit Not Returned",
+          "Email 2 \u2013 Deadline Reminder: What to Do When Your Landlord Doesn't Return Deposit on Time",
+          "Email 3 \u2013 Final Notice & Security Deposit Dispute Letter Before Small Claims Court",
+          "Conclusion: Escalate with DepositBack If Your Landlord Won't Give You Your Deposit Back"
+        ],
+        "key_points": [
+          "Subject Line 1 (Initial Demand): 'Re: Security Deposit for [Rental Address] \u2013 Return Required by [Date]'",
+          "Subject Line 2 (Deadline Reminder): 'Second Notice: Overdue Security Deposit & [State] Tenant Rights Violation'",
+          "Subject Line 3 (Final Notice): 'Final Demand Letter: Legal Action for Security Deposit Not Returned'",
+          "Email body framework: Cite move-out date, state-specific legal deadline, total amount owed, and next steps.",
+          "Landlords can only deduct for actual damage beyond normal wear and tear; blanket 'cleaning' or 'repainting' charges are often illegal.",
+          "Over 60% of tenants who send a formal demand letter recover their deposit without filing in small claims court."
+        ],
+        "cta": "Stop waiting. Generate your state-specific security deposit demand letter with DepositBack in minutes and force your landlord to respond.",
+        "target_audience": "Frustrated US renters whose landlord is withholding or not returning their security deposit and who need immediate, actionable recovery tools.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

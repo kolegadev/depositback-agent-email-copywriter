@@ -1,0 +1,32 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779623344",
+  "timestamp": "2026-05-24T11:49:43.390560+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Recovery: How to Write a Demand Email When Your Landlord Won't Return Your Deposit",
+        "meta_description": "Frustrated your landlord is withholding your security deposit? Learn your tenant rights and how to send a demand letter to recover your deposit fast.",
+        "content_outline": [
+          "Why Your Landlord Is Withholding Your Security Deposit (And Why They Might Be Wrong)",
+          "Tenant Rights: What a Landlord Can and Cannot Deduct",
+          "Drafting Your Security Deposit Dispute Demand Email: Subject Lines That Create Urgency",
+          "Body Copy That Gets Results: State Your Case and Set a Deadline",
+          "What to Do If Your Landlord Still Ignores Your Demand"
+        ],
+        "key_points": [
+          "Subject lines should be direct and legal in tone, e.g., 'Formal Demand: Immediate Return of Security Deposit \u2014 [Your Name/Unit]'.",
+          "Most states require landlords to return deposits within 14\u201330 days; missing these deadlines may entitle you to penalties or treble damages.",
+          "Landlords cannot deduct for normal wear and tear\u2014only documented damages beyond ordinary use and unpaid rent.",
+          "A written demand email serves as powerful legal evidence if you need to escalate to small claims court."
+        ],
+        "cta": "Don't let your landlord keep what's yours. Generate your state-specific security deposit demand letter in minutes and send it today.",
+        "target_audience": "Frustrated US renters whose landlords are wrongfully withholding, delaying, or refusing to return a security deposit and need a fast, legally sound way to recover their money.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

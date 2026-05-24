@@ -1,0 +1,33 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779662472",
+  "timestamp": "2026-05-24T22:42:03.998355+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "5-Email Security Deposit Recovery Sequence for U.S. Renters",
+        "meta_description": "Landlord withholding your security deposit? Use this 5-email demand sequence with proven subject lines and copy to recover your money fast.",
+        "content_outline": [
+          "Subject Line Formulas That Force Landlords to Open",
+          "Email 1: The Initial Demand With State Deadline",
+          "Email 2: Itemized Deduction Dispute and Evidence",
+          "Email 3: Final Notice Before Legal Escalation",
+          "Email 4: Small Claims Court Intent Letter",
+          "When to Switch From Email to a Certified Demand Letter"
+        ],
+        "key_points": [
+          "Subject lines should use urgency triggers like 'Final Notice' and 'Overdue Security Deposit' to maximize open rates",
+          "Every email body must cite the state-specific return deadline (ranging from 14 to 60 days) to create legal pressure",
+          "Tenants should escalate from email to a formal certified demand letter if the landlord does not respond within 7 days",
+          "DepositBack generates state-compliant, attorney-reviewed demand letters that carry more weight than informal emails"
+        ],
+        "cta": "Stop sending emails that get ignored. Generate your state-specific security deposit demand letter with DepositBack in minutes and recover what is yours.",
+        "target_audience": "Problem-aware U.S. renters facing landlords who are withholding, delaying, or wrongfully deducting security deposits",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

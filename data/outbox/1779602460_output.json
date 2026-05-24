@@ -1,0 +1,36 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779602360",
+  "timestamp": "2026-05-24T06:01:00.865582+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Recovery Email Sequence: What to Do When Your Landlord Is Withholding Your Deposit",
+        "meta_description": "Landlord withholding your security deposit? Use these 3 urgent demand emails to recover your money. Includes state-specific templates & tenant rights guide.",
+        "content_outline": [
+          "Introduction: The Real Cost of a Withheld Security Deposit (Targeting 'landlord not returning deposit' & 'security deposit not returned')",
+          "Email 1 (Send Immediately): The 48-Hour Demand Letter - Subject: 'Urgent: [Property Address] Security Deposit Overdue - Response Required Within 48 Hours'\nBody: Reference move-out date and state-mandated deadline. State exact amount owed. Request full deposit return within 48 hours. Mention move-out documentation and photos.",
+          "Email 2 (Send Day 3): The Legal Violation Notice - Subject: 'Final Notice: [State] Security Deposit Law Violation - [Your Name]'\nBody: Cite specific state statute (e.g., CA Civil Code \u00a71950.5, NY GOL \u00a77-108, TX Prop Code \u00a792.103). Challenge improper deductions for cleaning/normal wear and tear. Demand full refund plus statutory penalties by specific date.",
+          "Email 3 (Send Day 7): Pre-Small Claims Escalation - Subject: 'Notice of Intent to File Small Claims Court Action - [Property Address]'\nBody: Summarize prior unanswered demands. State concrete intent to file in county small claims court for triple damages/penalties, court costs, and interest unless deposit is returned by final deadline.",
+          "Section: What Can a Landlord Legally Deduct? (Targeting 'what can landlord deduct from security deposit' & 'can landlord keep security deposit')",
+          "Section: State-by-State Deadlines & Tenant Rights (Targeting 'tenant rights security deposit' & 'is my landlord required to return my deposit')"
+        ],
+        "key_points": [
+          "Subject Line Formula for High Open Rates: [Urgency Marker] + [Property Address/Identifier] + [Deadline/Consequence]. Example: 'Action Required: 123 Main St Deposit 14 Days Overdue'",
+          "Email 1 Core Copy: 'I vacated [Address] on [Date]. Under [State] law, my $[Amount] security deposit was due by [Deadline]. I have received neither my deposit nor a legally required itemized statement. Please remit the full $[Amount] within 48 hours.'",
+          "Email 2 Core Copy: 'This is my second written demand. [State Code] strictly limits security deposit deductions to unpaid rent and damage beyond normal wear and tear. Your failure to comply within [X] days forfeits your right to withhold any amount. I demand the full $[Amount] plus the $[Penalty] statutory penalty by [Date].'",
+          "Email 3 Core Copy: 'I have exhausted all good-faith efforts to resolve this matter. Unless my security deposit of $[Amount] is returned in full by [Final Date], I will file suit in [County] Small Claims Court to recover the original deposit, statutory damages up to [Amount], filing fees, and accrued interest.'",
+          "Address high-intent keywords naturally: 'my landlord won't give me my deposit back,' 'landlord withholding security deposit for cleaning,' and 'what to do when landlord doesn't return deposit' by framing each email as a step in the recovery process",
+          "Urgency Hook: Emphasize that every day the deposit is withheld past the state deadline, the tenant may be entitled to additional statutory penalties\u2014turning landlord inaction into financial leverage",
+          "Include references to top search locations (California, NYC/Texas/Florida/NJ) by citing specific state deadlines to maximize local SEO relevance"
+        ],
+        "cta": "Stop writing emails that get ignored. Generate a legally sound, state-specific security deposit demand letter with DepositBack in under 5 minutes and force your landlord to respond.",
+        "target_audience": "Problem-aware US renters\u2014particularly in California, New York, Texas, and Florida\u2014who are frustrated that their landlord is withholding, delaying, or wrongfully deducting from their security deposit and need an immediate, legally credible solution",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

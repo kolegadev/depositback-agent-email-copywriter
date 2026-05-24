@@ -1,0 +1,35 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779646333",
+  "timestamp": "2026-05-24T18:12:35.088718+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? How to Fight Back and Win",
+        "meta_description": "Is your landlord withholding your security deposit? Know your tenant rights, what deductions are illegal, and how to demand your money back now.",
+        "content_outline": [
+          "Why Is Your Landlord Withholding Your Security Deposit?",
+          "Know Your Rights: What Landlords Can and Cannot Deduct",
+          "Timeline Troubles: How Long a Landlord Has to Return Your Deposit",
+          "What to Do When Your Landlord Won't Return Your Deposit",
+          "How to Write a Security Deposit Dispute Letter That Works",
+          "Next Steps: Small Claims Court and State Penalties",
+          "Get Help: Send a Demand Letter with DepositBack"
+        ],
+        "key_points": [
+          "State laws require landlords to return security deposits within 14 to 60 days, depending on your location",
+          "Normal wear and tear, minor scuffs, and routine cleaning cannot be legally deducted from your deposit",
+          "Documenting your move-in and move-out condition with photos strengthens your claim significantly",
+          "A formal security deposit demand letter often forces compliance without going to court",
+          "If your landlord ignores your dispute letter, you may be entitled to double or triple damages in many states"
+        ],
+        "cta": "Stop waiting for a landlord who won't cooperate. Create your state-specific security deposit demand letter with DepositBack today and recover what's rightfully yours.",
+        "target_audience": "Problem-aware U.S. renters who are frustrated that their landlord is wrongfully withholding or failing to return a security deposit and are actively searching for solutions to enforce their tenant rights",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

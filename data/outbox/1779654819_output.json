@@ -1,0 +1,32 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779654774",
+  "timestamp": "2026-05-24T20:33:39.921281+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Demand Letter Sequence: How to Get Your Money Back When Your Landlord Won't Return Your Deposit",
+        "meta_description": "Free security deposit demand letter template and 5-day email sequence. Learn how to write a security deposit letter to landlord and recover your deposit fast.",
+        "content_outline": [
+          "Email 1 \u2013 Urgency & The Law: Subject: 'Is your landlord keeping your security deposit illegally?' Body: Open with state deadline, warn of penalties, and introduce the security deposit demand letter as the first formal step.",
+          "Email 2 \u2013 The Template: Subject: 'Your free security deposit demand letter template (copy-paste ready)' Body: Deliver a fill-in-the-blank demand letter for security deposit return, highlighting sections for itemized deductions disputes.",
+          "Email 3 \u2013 How to Write It: Subject: 'How to write a security deposit letter that actually works' Body: Break down tone, certified mail proof, and statutory citation. Position the security deposit letter to landlord as a legal shield.",
+          "Email 4 \u2013 Escalation: Subject: 'Last notice before filing suit' Body: Address when a landlord won't return security deposit; compare small claims vs. a security deposit refund letter; push the done-for-you service.",
+          "Email 5 \u2013 Final Call: Subject: 'Your security deposit return letter is ready to send' Body: Recap how to get security deposit back in 48 hours using DepositBack's automated letter to landlord about security deposit tool, with one-click certified mailing."
+        ],
+        "key_points": [
+          "Targets high-intent keywords including security deposit demand letter, security deposit refund letter, and how to write security deposit letter.",
+          "Uses loss aversion and statutory deadlines to create immediate urgency around deposit recovery.",
+          "Transitions renters from DIY template downloads to the transactional DepositBack homepage service.",
+          "Emphasizes state-specific compliance to differentiate from generic legal advice."
+        ],
+        "cta": "Create My State-Specific Security Deposit Demand Letter Now",
+        "target_audience": "US renters who have recently vacated a property and are searching for a security deposit demand letter template or help writing a letter to landlord about security deposit non-return.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779650770",
+  "timestamp": "2026-05-24T19:27:29.916665+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Demand Letter: Free Template to Recover Your Money Fast",
+        "meta_description": "Get your security deposit back with a free demand letter template. State-specific formats for CA, TX, FL & more. Start your refund demand in minutes.",
+        "content_outline": [
+          "Hero Section: Urgent Value Proposition for Security Deposit Recovery",
+          "The Problem: What to Do When Your Landlord Won't Return Your Security Deposit",
+          "How to Write a Security Deposit Demand Letter That Gets Results",
+          "Free Security Deposit Demand Letter Templates by State (California, Texas, Florida, Illinois, Massachusetts, Washington)",
+          "Security Deposit Return Letter vs. Demand Letter: Which One Should You Send?",
+          "Step-by-Step Guide: How to Get Your Security Deposit Back in 7 Days",
+          "High-Converting Email Follow-Up Sequence for Landlord Outreach",
+          "Legal Deadlines and Tenant Rights: Creating Urgency and Compliance",
+          "FAQ: Sample Letters, Certified Mail, and Small Claims Court Next Steps"
+        ],
+        "key_points": [
+          "Landlords are legally required to return security deposits within state-specific timeframes (ranging from 14 to 60 days)",
+          "A formal security deposit demand letter is the critical first step before escalating to small claims court",
+          "State-specific templates for California, Texas, Florida, Illinois, Massachusetts, and Washington ensure proper legal citation and compliance",
+          "Certified demand letters create a legally recognized paper trail and increase recovery rates significantly over informal requests",
+          "An email follow-up sequence reinforces urgency and documents all landlord communications for potential legal proceedings",
+          "Renters searching for 'how to write security deposit letter' need plug-and-play formats that cite local statutes and deadlines automatically",
+          "Distinguishing between a security deposit refund request and a formal demand letter helps renters choose the right tone and legal weight"
+        ],
+        "cta": "Generate Your State-Specific Security Deposit Demand Letter \u2014 Get Started in 2 Minutes",
+        "target_audience": "US renters who have moved out and are waiting for their landlord to return a security deposit, specifically those seeking state-specific demand letter templates, refund request formats, and urgent recovery solutions in California, Texas, Florida, New York, Illinois, Massachusetts, and Washington.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

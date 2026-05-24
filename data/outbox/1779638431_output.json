@@ -1,0 +1,36 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779638395",
+  "timestamp": "2026-05-24T16:00:31.415232+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Security Deposit? Your Step-by-Step Recovery Guide",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights, what landlords can deduct, and how a demand letter gets your money back fast.",
+        "content_outline": [
+          "Introduction: The Frustration of a Landlord Not Returning Your Deposit",
+          "Is My Landlord Required to Return My Deposit? Know Your State Deadline",
+          "Can a Landlord Keep Your Security Deposit? Legal vs. Illegal Deductions",
+          "What Can a Landlord Deduct From a Security Deposit? (And What They Can't)",
+          "My Landlord Won't Give Me My Deposit Back: First Steps to Take",
+          "Security Deposit Not Returned Within 30 Days? Time to Escalate",
+          "How to Write a Security Deposit Dispute Letter That Actually Works",
+          "What to Do When Your Landlord Doesn't Return Your Deposit: Court & Beyond",
+          "Conclusion: Recover Your Money With Urgency"
+        ],
+        "key_points": [
+          "Landlords must return security deposits within a strict state-mandated timeline\u2014typically 14 to 60 days depending on jurisdiction.",
+          "Normal wear and tear cannot be deducted; only actual damage beyond ordinary use and unpaid rent are generally valid withholdings.",
+          "A formal security deposit dispute letter is often the fastest, most effective tool to force compliance before filing suit.",
+          "DepositBack auto-generates state-compliant demand letters so tenants can act immediately and recover withheld deposits without legal confusion."
+        ],
+        "cta": "Stop waiting on your landlord. Create your state-specific security deposit demand letter with DepositBack in minutes and start your recovery today.",
+        "target_audience": "Frustrated US renters dealing with a landlord withholding a security deposit, not returning a deposit on time, or making wrongful deductions.",
+        "word_count_target": 1800
+      }
+    }
+  ]
+}

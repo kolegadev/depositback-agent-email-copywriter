@@ -1,0 +1,32 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779666328",
+  "timestamp": "2026-05-24T23:45:48.112436+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Recovery Sequence: From Demand Letter to Full Refund",
+        "meta_description": "Landlord withholding your deposit? Know your tenant rights, dispute illegal deductions, and send a demand letter that forces your landlord to pay up fast.",
+        "content_outline": [
+          "Section 1: The Reality Check \u2014 Why Your Landlord Is Withholding Your Security Deposit (And Why They Might Be Wrong)",
+          "Section 2: Know Your Rights \u2014 What a Landlord Can and Cannot Deduct From Your Deposit",
+          "Section 3: The Dispute Process \u2014 What to Do When Your Landlord Won't Return Your Deposit",
+          "Section 4: The Demand Letter \u2014 How to Write a Security Deposit Dispute Letter That Gets Results",
+          "Section 5: Escalation Tactics \u2014 Next Steps If Your Deposit Is Still Not Returned"
+        ],
+        "key_points": [
+          "Most state laws require landlords to return security deposits within 14\u201360 days and provide an itemized deduction list",
+          "Normal wear and tear, unpaid rent, and cleaning are the most common areas of dispute\u2014tenants often win when they challenge invalid deductions",
+          "A professionally written demand letter citing state-specific landlord-tenant law is the single most effective pre-litigation recovery tool",
+          "DepositBack automates state-compliant security deposit demand letters to remove guesswork and increase refund speed"
+        ],
+        "cta": "Stop letting your landlord keep your money. Generate your state-specific security deposit demand letter in under 5 minutes and start your recovery today.",
+        "target_audience": "Frustrated US renters whose landlords are wrongfully withholding, delaying, or refusing to return security deposits, and who are actively searching online for legal rights, dispute letters, and fast recovery solutions.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

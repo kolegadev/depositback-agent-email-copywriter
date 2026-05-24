@@ -1,0 +1,33 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779666348",
+  "timestamp": "2026-05-24T23:46:28.829017+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Recovery Email Sequence & Demand Letter Brief",
+        "meta_description": "Use our security deposit demand letter sequence to recover unpaid deposits. Free templates for CA, TX, FL, and all 50 states. Act before your legal deadline.",
+        "content_outline": [
+          "Email 1: Friendly Security Deposit Refund Request (Day 1)",
+          "Email 2: Formal Security Deposit Demand Letter (Day 7)",
+          "Email 3: Final Notice & Legal Escalation (Day 14)",
+          "State-Specific Templates: CA, TX, FL, IL, MA, CO, WA",
+          "FAQ: What to Do When Your Landlord Won't Return Your Security Deposit"
+        ],
+        "key_points": [
+          "Subject lines must create urgency: 'Final Notice: Security Deposit Overdue \u2014 [Property Address]'",
+          "Body copy should cite specific state landlord-tenant deadlines and statutory penalties",
+          "Include certified mail instructions to create a legal paper trail",
+          "Provide template placeholders for deposit amount, move-out date, and property address",
+          "Highlight that many states award double or triple damages plus attorney fees for non-compliance"
+        ],
+        "cta": "Create your personalized security deposit demand letter in 2 minutes\u2014start your recovery today.",
+        "target_audience": "Former US renters whose landlords have failed to return security deposits within state-mandated timelines, including those facing unjust deductions or total withholding.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

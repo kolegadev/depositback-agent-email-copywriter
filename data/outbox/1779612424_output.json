@@ -1,0 +1,28 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779612379",
+  "timestamp": "2026-05-24T08:47:04.686709+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Demand Letter: Get Your Refund Fast",
+        "meta_description": "Free security deposit demand letter templates for every state. Learn how to write a letter to your landlord and recover your deposit before it's too late.",
+        "content_outline": [
+          "The Real Reason Your Landlord Won't Return Your Security Deposit",
+          "How to Write a Security Deposit Demand Letter That Works in Your State",
+          "Next Steps: What to Do If Your Landlord Ignores Your Demand Letter"
+        ],
+        "key_points": [
+          "A professionally formatted security deposit demand letter creates legal documentation and leverages state-specific deadlines to pressure landlords into compliance.",
+          "Using a state-law-compliant template eliminates guesswork, covers all required legal elements, and significantly increases your chances of a full refund without going to court."
+        ],
+        "cta": "Create Your Free Security Deposit Demand Letter in 2 Minutes",
+        "target_audience": "US renters who have moved out within the last 30-60 days and have not received their security deposit refund, or tenants dealing with unfair deductions, unresponsive landlords, or missed state-mandated return deadlines.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

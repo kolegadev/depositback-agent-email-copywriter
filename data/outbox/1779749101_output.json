@@ -1,0 +1,35 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779749055",
+  "timestamp": "2026-05-25T22:45:01.263474+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Demand Letter: Recover Your Money Fast",
+        "meta_description": "Need your security deposit back? Create a legally sound demand letter in minutes. Fast, state-specific templates for renters. Start your claim now.",
+        "content_outline": [
+          "The Urgency of Security Deposit Recovery: Know Your Rights",
+          "What Is a Security Deposit Demand Letter and Why It Works",
+          "State-by-State Deadlines: From California to Texas and Florida",
+          "Security Deposit Demand Letter Template vs. Professional Service",
+          "How to Write a Security Deposit Refund Letter That Gets Results",
+          "What to Do When Your Landlord Won't Return Your Security Deposit",
+          "Step-by-Step: Sending Your Demand Letter via Certified Mail"
+        ],
+        "key_points": [
+          "Most states require landlords to return security deposits within 14 to 60 days after move-out",
+          "A formal demand letter creates a legal paper trail and demonstrates serious intent to pursue the claim",
+          "State-specific templates ensure your letter cites the correct statutes and deadlines for maximum impact",
+          "Certified mail provides court-admissible proof that the landlord received your demand",
+          "DepositBack generates professional, state-tailored security deposit demand letters in under two minutes"
+        ],
+        "cta": "Generate your state-specific security deposit demand letter in 2 minutes and take the first step toward recovering your deposit today.",
+        "target_audience": "US renters who have moved out and are waiting for their landlord to return a security deposit, or whose landlord has missed the legal refund deadline",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779753129",
+  "timestamp": "2026-05-25T23:53:41.307692+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "High-Urgency Security Deposit Demand Letter Email Sequence",
+        "meta_description": "Recover your deposit fast. Get a 7-day email sequence with proven security deposit demand letter templates, state laws, and small-claims leverage.",
+        "content_outline": [
+          "Email 1 \u2014 The Overdue Alert: Subject line 'Your security deposit is overdue \u2014 demand letter attached'. Body opens with empathy ('Moving is stressful enough...'), identifies the exact state deadline violated, introduces the security deposit demand letter as the formal next step, and sets a 7-day response window.",
+          "Email 2 \u2014 Template & How-To Guide: Subject line 'Free security deposit demand letter template (no lawyer needed)'. Body delivers the downloadable template, answers 'how to write a security deposit letter' with a 3-step fill-in-the-blank framework, and includes a response deadline calendar.",
+          "Email 3 \u2014 State Law Power Move: Subject line '[State] landlords must return deposits in [X] days \u2014 here\u2019s your proof'. Body cites specific statutes (e.g., Texas Property Code \u00a792.103, Florida \u00a783.49, California Civil Code \u00a71950.5), attaches the customized demand letter for security deposit, and warns of statutory penalties or treble damages.",
+          "Email 4 \u2014 Social Proof & Recovery Story: Subject line 'How a renter got her $2,400 security deposit back in 5 days'. Body presents a case study showing the letter to landlord about security deposit in action, overcomes the objection 'My landlord ignores me', and reinforces the demand letter template value.",
+          "Email 5 \u2014 Final Demand Escalation: Subject line 'Final notice: security deposit refund letter required by [Date]'. Body shifts tone to firm and legal, recaps prior communications, attaches the final security deposit return letter, and explicitly mentions small claims court and attorney-fee provisions.",
+          "Email 6 \u2014 Small Claims Prep: Subject line 'Suing your landlord? Start with this demand letter for security deposit'. Body explains that courts require written proof of demand, demonstrates how the security deposit letter to landlord creates a paper trail, and outlines the filing checklist.",
+          "Email 7 \u2014 Last Chance / Close File: Subject line 'Closing your file: last chance to use your security deposit demand letter'. Body creates loss aversion by announcing file closure, offers a 24-hour extension to download the demand letter template, and includes a direct helpline link to the homepage generator."
+        ],
+        "key_points": [
+          "Subject lines front-load transactional keywords\u2014'security deposit demand letter template', 'letter to landlord about security deposit', and 'how to get security deposit back'\u2014to maximize inbox placement and match high-intent search queries.",
+          "Body copy alternates between empathy and legal pressure, addressing both 'how to write security deposit letter' informational intent and 'landlord won't return security deposit' transactional urgency.",
+          "Dynamic state-specific content blocks target high-volume autocomplete variations (California, Texas, Florida, Illinois, Massachusetts, Washington) to personalize the demand letter for security deposit recovery and boost local SEO relevance.",
+          "Each email deploys dual CTAs: an inline text link anchored on 'security deposit refund letter' for readers in research mode, and a high-contrast button CTA driving to the homepage demand-letter generator for users ready to send immediately."
+        ],
+        "cta": "Generate My Free State-Specific Security Deposit Demand Letter \u2014 Send It Tonight",
+        "target_audience": "Frustrated US renters who have moved out within the last 1\u20136 months and are actively searching for a security deposit demand letter, template, or legal solution because their landlord missed the state-mandated refund deadline.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

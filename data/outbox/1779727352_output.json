@@ -1,0 +1,33 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779727177",
+  "timestamp": "2026-05-25T16:42:32.955153+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "DepositBack Security Deposit Recovery Email Sequence",
+        "meta_description": "Get your security deposit back with a state-specific demand letter. Free templates and urgent deadlines for US renters. Claim your deposit now.",
+        "content_outline": [
+          "Email 1 \u2014 The Problem & Urgency. Subject: 'Still waiting for your security deposit?' Body: Targets 'landlord won't return security deposit' and state-mandated deadlines. Opens with the renter's pain point, cites statutory return windows (e.g., FL 15 days, CA 21 days, TX 30 days), and introduces the risk of forfeiting penalty damages by waiting.",
+          "Email 2 \u2014 The Template. Subject: 'Your security deposit demand letter template is ready.' Body: Targets 'security deposit demand letter template' and 'how to write security deposit letter'. Delivers a preview of a legally vetted, state-specific template; highlights required clauses (statute citation, itemized deduction dispute, certified mail request) and positions DepositBack as the fastest way to customize and send it.",
+          "Email 3 \u2014 The How-To. Subject: 'How to get your security deposit back (step-by-step).' Body: Targets 'how to get security deposit back'. Provides a tactical checklist: gather move-in/move-out photos, dispute bogus cleaning charges, calculate allowable deductions, send via certified mail, and prepare for small claims. Reinforces that a formal letter is the prerequisite to double or treble damages.",
+          "Email 4 \u2014 The Letter Types. Subject: 'Demand letter vs. refund letter: which do you need?' Body: Covers 'demand letter for security deposit', 'security deposit return letter', and 'security deposit refund letter'. Explains when to use a polite refund request versus a firm demand letter; includes sample language for each format and notes state-specific escalation rules.",
+          "Email 5 \u2014 Final Push. Subject: 'Last chance: send your security deposit letter to landlord today.' Body: Targets 'security deposit letter to landlord' and 'letter to landlord about security deposit'. Creates final urgency by quantifying the value of the deposit, warning that delays weaken the claim, and offering a 5-minute letter generator with social proof from recovered renters."
+        ],
+        "key_points": [
+          "Subject lines must embed primary keywords naturally: 'security deposit demand letter', 'how to get security deposit back', and 'landlord won't return security deposit' to align with transactional search intent.",
+          "Body copy should reference state-specific demand letter requirements (California, Texas, Florida, Massachusetts, Illinois, Washington, Colorado, Oklahoma) to capture geographic long-tail keywords and increase relevance.",
+          "Urgency drivers: statutory deadlines (15\u201360 days), penalty damages (up to 2x\u20133x the deposit in select states), and the legal paper trail created by a certified demand letter.",
+          "Emails 2 and 3 should include mini-templates or downloadable checklists for 'how to write security deposit letter' to reduce friction and demonstrate DepositBack's automated accuracy.",
+          "Every email ends with a transactional CTA driving to the homepage to generate a state-compliant letter; secondary CTA offers a printable 'security deposit refund letter' sample for list nurturing."
+        ],
+        "cta": "Generate your state-specific security deposit demand letter in 5 minutes\u2014recover your deposit before the legal deadline expires.",
+        "target_audience": "US renters who have moved out within the past 1\u201312 months and have not received their full security deposit refund, or who received unjustified deductions from their landlord.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

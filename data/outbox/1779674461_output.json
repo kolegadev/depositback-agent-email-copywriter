@@ -1,0 +1,33 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779674357",
+  "timestamp": "2026-05-25T02:01:01.262173+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Recovery: High-Urgency Email Sequence for Renters",
+        "meta_description": "High-conversion email sequence for renters targeting security deposit demand letter keywords. Recover your deposit fast with DepositBack.",
+        "content_outline": [
+          "Email 1 \u2013 The Deadline Trigger | Subject: 'Did your landlord miss the legal deadline?' | Body: Open with state-specific return timelines (CA, TX, FL, MA, IL, WA, CO). Warn that landlords who miss deadlines may owe double damages or penalties. Introduce the security deposit demand letter as the fastest way to enforce compliance. CTA: Download your state-specific security deposit demand letter template.",
+          "Email 2 \u2013 Problem Agitation | Subject: 'When your landlord won't return your security deposit...' | Body: Validate the renter's frustration and outline common illegal deductions. Weave in transactional keywords like 'security deposit return letter' and 'letter to landlord about security deposit.' Explain that a formal demand letter for security deposit creates a paper trail and signals intent to escalate. CTA: See how to write a security deposit letter that gets results.",
+          "Email 3 \u2013 Solution & Speed | Subject: 'Your security deposit refund letter\u2014ready in 60 seconds' | Body: Introduce DepositBack's automated tool that builds a state-compliant demand letter without a lawyer. Target 'how to write security deposit letter' and 'security deposit demand letter template' intent. Highlight certified delivery and formatting that meets state statutes. CTA: Generate your security deposit letter to landlord now.",
+          "Email 4 \u2013 Escalation Urgency | Subject: 'Final step before small claims court' | Body: Emphasize that time is running out to preserve claims. Reference 'landlord won't return security deposit' anxiety and position the demand letter as the last warning before filing suit. Use scarcity: 'Every day you wait weakens your case.' CTA: Send your certified security deposit demand letter today.",
+          "Email 5 \u2013 Last Call | Subject: '[First Name], recover your deposit this week' | Body: Short, punchy close leveraging fear of loss. Remind them that a single security deposit return letter can force a refund within 48\u201372 hours. Reiterate zero-cost entry and state-specific legal backing. Final CTA: Get your security deposit back\u2014build your free demand letter."
+        ],
+        "key_points": [
+          "Target transactional keywords throughout copy: 'security deposit demand letter,' 'security deposit demand letter template,' 'how to get security deposit back,' 'landlord won't return security deposit,' 'security deposit return letter,' 'demand letter for security deposit,' 'security deposit letter to landlord,' 'letter to landlord about security deposit,' 'how to write security deposit letter,' and 'security deposit refund letter.'",
+          "Lead with state-specific urgency (statutory deadlines, double-damages threats) to maximize open rates and click-through.",
+          "Maintain a tone that is empathetic but assertive\u2014renters feel powerless, so copy must position DepositBack as the lever that forces landlord compliance.",
+          "Each email uses a single, high-contrast CTA driving toward generating a demand letter; no competing links.",
+          "Subject lines rely on curiosity, fear of loss, and personalization to stand up against Gmail promotions tab filtering."
+        ],
+        "cta": "Generate Your Free Security Deposit Demand Letter in 2 Minutes",
+        "target_audience": "US renters who have recently moved out and are experiencing delayed, partial, or refused security deposit returns, particularly in California, Texas, Florida, Massachusetts, Illinois, Washington, and Colorado.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

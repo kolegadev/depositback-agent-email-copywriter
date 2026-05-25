@@ -1,0 +1,35 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779674182",
+  "timestamp": "2026-05-25T01:59:17.214631+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here\u2019s What to Do Next",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights, what landlords can deduct, and how to demand your deposit back fast.",
+        "content_outline": [
+          "The Frustration: When Your Landlord Won't Give You Your Deposit Back",
+          "Can a Landlord Keep Your Security Deposit? Know the Legal Limits",
+          "What Can a Landlord Deduct From Your Security Deposit (and What\u2019s Off-Limits)",
+          "State-by-State Deadlines: How Long a Landlord Has to Return Your Deposit",
+          "What to Do When Your Landlord Doesn't Return Your Deposit: A 3-Step Action Plan",
+          "How to Write a Security Deposit Dispute Letter That Actually Works",
+          "Escalation Tactics: From Demand Letters to Small Claims Court",
+          "Final Checklist: Recover Your Deposit Before Time Runs Out"
+        ],
+        "key_points": [
+          "Landlords can only deduct for actual damage beyond normal wear and tear or unpaid rent; they cannot withhold deposits arbitrarily.",
+          "Most states require landlords to return security deposits within 14 to 60 days and provide an itemized deduction list.",
+          "A professionally written security deposit dispute letter is the most effective first step to recovery and often avoids small claims court.",
+          "Tenants in many states may recover double or triple damages, plus attorney fees, if a landlord wrongfully withholds a deposit."
+        ],
+        "cta": "Don\u2019t let your landlord keep what\u2019s yours. Create your state-specific security deposit demand letter with DepositBack in minutes and start your recovery today.",
+        "target_audience": "Frustrated US tenants dealing with a landlord withholding, delaying, or refusing to return a security deposit, who need immediate, legally sound recovery steps.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

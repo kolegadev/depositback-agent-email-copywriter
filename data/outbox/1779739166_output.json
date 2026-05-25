@@ -1,0 +1,33 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779739152",
+  "timestamp": "2026-05-25T19:59:26.266570+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? How to Recover It Fast",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights, valid deductions, and how to write a demand letter that gets your money back.",
+        "content_outline": [
+          "Introduction: Why landlords withhold deposits and what the law says",
+          "Can a landlord keep your security deposit? (Valid vs. invalid deductions)",
+          "How long does a landlord have to return your deposit? (State-by-state deadlines)",
+          "What to do when your landlord won't give your deposit back",
+          "How to write an effective security deposit dispute letter",
+          "When to escalate: Small claims court and penalties",
+          "Conclusion + CTA"
+        ],
+        "key_points": [
+          "Landlords must return security deposits within a strict state-mandated timeline (usually 14\u201330 days) and cannot deduct for normal wear and tear",
+          "A formal security deposit demand letter is the fastest, most effective first step to recover withheld funds without immediate legal fees",
+          "Tenants who act quickly and cite specific state laws significantly increase their chances of full deposit recovery or even double damages"
+        ],
+        "cta": "Don't wait another day. Use DepositBack to generate a state-specific, legally sound security deposit demand letter in minutes\u2014and force your landlord to return what's rightfully yours.",
+        "target_audience": "Frustrated US renters who are problem-aware, have already moved out, and are actively searching for solutions because their landlord is withholding or not returning their security deposit",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

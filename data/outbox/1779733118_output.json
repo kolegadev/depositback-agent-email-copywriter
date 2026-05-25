@@ -1,0 +1,35 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779733085",
+  "timestamp": "2026-05-25T18:18:38.598989+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Recovery Email Sequence: Demand Letter Campaign",
+        "meta_description": "Recover your security deposit fast with our proven 4-email demand sequence. Templates, deadlines, and legal leverage for U.S. renters.",
+        "content_outline": [
+          "Email 1 (Day 0): The Deadline Alert \u2014 State Law & Your Overdue Security Deposit",
+          "Email 2 (Day 2): The Template Drop \u2014 Free Security Deposit Demand Letter Template",
+          "Email 3 (Day 5): The Escalation \u2014 When Your Landlord Won't Return the Security Deposit",
+          "Email 4 (Day 8): The Final Notice \u2014 Pre-Litigation Demand Letter for Security Deposit Return"
+        ],
+        "key_points": [
+          "Subject Line 1: Your security deposit is late \u2014 demand it back now",
+          "Subject Line 2: Landlord won't return your deposit? Use this free template",
+          "Subject Line 3: How to get your security deposit back in 7 days (or else)",
+          "Subject Line 4: Final demand: Security deposit return letter required by law",
+          "Body Copy Focus: State-specific deadlines, statutory penalties, and certified mail proof to maximize urgency and legal pressure",
+          "Keyword Integration: security deposit demand letter, security deposit demand letter template, how to get security deposit back, landlord won't return security deposit, security deposit refund letter, security deposit letter to landlord, how to write security deposit letter, demand letter for security deposit",
+          "CTA Strategy: Every email pushes to the DepositBack homepage to auto-generate a state-compliant demand letter in under 5 minutes",
+          "Urgency Tactic: Countdown references to state-mandated return windows (14\u201330 days) and potential double or triple damages for non-compliance"
+        ],
+        "cta": "Generate Your State-Compliant Security Deposit Demand Letter \u2014 Start for Free",
+        "target_audience": "U.S. renters whose landlords have missed the legal deadline to return a security deposit and need a fast, legally sound way to demand their money back",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

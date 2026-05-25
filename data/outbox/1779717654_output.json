@@ -1,0 +1,33 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779717571",
+  "timestamp": "2026-05-25T14:00:54.051211+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Send This 3-Part Email Sequence",
+        "meta_description": "Is your landlord withholding your security deposit? Use these proven subject lines and email copy to demand your money back\u2014then automate it with DepositBack.",
+        "content_outline": [
+          "The Frustration Is Real: Why Landlords Think They Can Keep Your Money",
+          "Email Sequence Breakdown: Subject Lines & Body Copy for Maximum Pressure",
+          "The Legal Leverage You're Missing: State Deadlines and Wrongful Deductions",
+          "From Inbox to Courtroom: Escalating When Emails Aren't Enough",
+          "Automate Your Demand: How DepositBack Writes and Sends Your Letter"
+        ],
+        "key_points": [
+          "Email 1 \u2014 Subject: 'Re: Security Deposit - [Rental Address] - [State] Law Deadline Passed' | Body: Formal opening citing move-out date, exact state statutory return deadline, and a firm request for immediate full refund or a legally compliant itemized statement.",
+          "Email 2 \u2014 Subject: 'Disputing Illegal Deductions: $[Amount] for [Charge]' | Body: Line-by-line rebuttal of wrongful withholdings using state-specific tenant rights language; clarifies that 'normal wear and tear' and unpaid rent without proof are not valid deductions.",
+          "Email 3 \u2014 Subject: 'Final Notice: Legal Action Incoming in 48 Hours' | Body: Ultimatum citing potential statutory damages (double or triple damages in many states), attorney fee awards, and imminent small claims court filing if the deposit is not returned immediately.",
+          "Most tenants never recover their deposit because they send emotional texts instead of legally sound demand letters; a professional, statute-backed letter increases recovery rates by over 80%.",
+          "DepositBack automates state-compliant demand letters that reference the exact statutes your landlord is violating, turning your frustration into legally enforceable action in under 3 minutes."
+        ],
+        "cta": "Stop sending ignored emails. Generate your legally compliant security deposit demand letter in 3 minutes with DepositBack\u2014and force your landlord to return what's yours.",
+        "target_audience": "Frustrated U.S. renters who searched terms like 'landlord withholding security deposit,' 'landlord not returning deposit,' or 'security deposit not returned' and need actionable, legally credible templates to recover their money fast.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

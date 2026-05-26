@@ -1,0 +1,31 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779782647",
+  "timestamp": "2026-05-26T08:05:56.554759+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Recovery Email Sequence: Demand Letter Templates That Work",
+        "meta_description": "Get your security deposit back fast. Free demand letter email sequence & templates for CA, TX, FL & all 50 states. Start your claim now.",
+        "content_outline": [
+          "Email 1 (Day 1) \u2014 Initial Demand. Subject: \"Immediate Action Required: Return My Security Deposit ([Property Address])\". Body: \"I vacated [Property Address] on [Date]. Under [State] law, my security deposit of $[Amount] was due by [Deadline]. I have not received the refund or an itemized deduction list. Please remit the full amount within 48 hours. I have attached my formal security deposit demand letter for your records.\"",
+          "Email 2 (Day 3) \u2014 Legal Escalation. Subject: \"Second Notice: Security Deposit Violation \u2013 [State] Civil Code [Section]\". Body: \"This is my second request regarding my unpaid security deposit. [State] statutes entitle tenants to [penalty, e.g., double/treble damages] for unlawful withholding. Return my $[Amount] deposit immediately to avoid further liability. Download your state-specific security deposit demand letter template at DepositBack.\"",
+          "Email 3 (Day 5) \u2014 Final Ultimatum. Subject: \"FINAL DEMAND: Security Deposit Return or Small Claims Filing\". Body: \"I have waited [X] days past the legal deadline without payment. If my $[Amount] security deposit is not returned within 48 hours, I will file in small claims court for the full deposit plus statutory damages and court costs. This email serves as written notice. Send your final security deposit return letter with certified-mail tracking using DepositBack.\""
+        ],
+        "key_points": [
+          "Subject lines target high-intent keywords: 'security deposit demand letter', 'landlord won't return security deposit', and 'security deposit refund letter' to maximize relevance and open rates",
+          "Body copy answers 'how to write security deposit letter' by providing a fill-in-the-blank framework that renters can use immediately or generate automatically via DepositBack",
+          "Urgency escalates from polite 48-hour request \u2192 state penalty citation \u2192 small claims threat to pressure compliance without immediate legal fees",
+          "Each email integrates transactional search terms\u2014'security deposit demand letter template', 'demand letter for security deposit', and state-specific variants\u2014to align with renter search behavior",
+          "Sequence CTA pushes to the DepositBack homepage to convert readers into users who generate legally compliant, state-specific demand letters with tracking"
+        ],
+        "cta": "Generate Your Free, State-Specific Security Deposit Demand Letter in 2 Minutes",
+        "target_audience": "US renters who moved out 1\u201360 days ago and have not received their security deposit refund or itemized deductions list from their landlord",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

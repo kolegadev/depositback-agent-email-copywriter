@@ -1,0 +1,33 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779788858",
+  "timestamp": "2026-05-26T09:48:25.657274+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here\u2019s How to Get It Back Fast",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights and how to write a demand letter that gets your money back before it's too late.",
+        "content_outline": [
+          "The Real Reason Your Landlord Isn\u2019t Returning Your Deposit",
+          "Is My Landlord Allowed to Keep My Deposit? Know Your Tenant Rights",
+          "What Your Landlord Can (and Cannot) Deduct From Your Security Deposit",
+          "Security Deposit Not Returned: State Deadlines and Late Penalties",
+          "How to Write a Security Deposit Dispute Letter That Gets Results",
+          "What to Do Next If Your Landlord Still Refuses to Pay"
+        ],
+        "key_points": [
+          "Most states require landlords to return security deposits within 14\u201330 days and provide an itemized list of deductions; failure to do so often forfeits their right to keep any of it.",
+          "Landlords cannot deduct for normal wear and tear\u2014only for actual damage beyond ordinary use or unpaid rent.",
+          "A formal, state-specific demand letter creates legal urgency and is often the fastest way to recover funds without going to small claims court.",
+          "DepositBack automates legally compliant security deposit demand letters so tenants can escalate recovery in minutes, not weeks."
+        ],
+        "cta": "Stop waiting. Use DepositBack to create your state-specific security deposit demand letter today and force your landlord to take you seriously.",
+        "target_audience": "Problem-aware US renters who are frustrated because their landlord is withholding, delaying, or wrongfully deducting from their security deposit.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

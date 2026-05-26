@@ -1,0 +1,35 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779813314",
+  "timestamp": "2026-05-26T16:36:40.018660+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Copy-Paste This 3-Email Demand Sequence",
+        "meta_description": "Landlord not returning your deposit? Use this proven 3-part email sequence with urgency-driven subject lines and body copy to recover your money fast.",
+        "content_outline": [
+          "The Silent Wait: Why Landlords Get Away With Withholding Deposits",
+          "Know Your Rights: What Your Landlord Can (and Cannot) Deduct",
+          "Email 1: The Polite-but-Firm Initial Demand (Subject Line + Body Template)",
+          "Email 2: The Deadline-Driven Escalation (Subject Line + Body Template)",
+          "Email 3: Final Notice Before Small Claims (Subject Line + Body Template)",
+          "If Emails Fail: How to Escalate With a Formal Demand Letter",
+          "Your Next Move: Recover Your Deposit in Under 5 Minutes"
+        ],
+        "key_points": [
+          "Email subject lines are optimized for urgency and high open rates to cut through landlord silence",
+          "Body copy progresses from professional reminder to legally grounded final warning using tenant rights language",
+          "Targets problem-aware keywords including landlord withholding security deposit, landlord not returning deposit, and what to do when landlord doesn't return deposit",
+          "Addresses state-specific deadlines and legal deduction rules to build authority and trust with frustrated renters",
+          "Converts readers to DepositBack by showing exactly when DIY email ends and a formal demand letter becomes necessary"
+        ],
+        "cta": "Stop sending emails into the void. Generate a legally compliant, state-specific security deposit demand letter with DepositBack today and force your landlord to respond.",
+        "target_audience": "Problem-aware US renters whose landlords are wrongfully withholding, delaying, or refusing to return security deposits and who need immediate, actionable recovery tools.",
+        "word_count_target": 1000
+      }
+    }
+  ]
+}

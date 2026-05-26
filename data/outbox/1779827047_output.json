@@ -1,0 +1,33 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779826955",
+  "timestamp": "2026-05-26T20:24:07.214024+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Demand Letter Email Sequence: Recover Your Deposit in 72 Hours",
+        "meta_description": "Free security deposit demand letter templates and state-specific email scripts. Fast recovery when your landlord won't return your security deposit.",
+        "content_outline": [
+          "Email 1: The Polite Nudge \u2014 Subject: 'Quick question about my security deposit refund at [Address]'",
+          "Email 2: The Formal Demand \u2014 Subject: 'Formal demand: Return my $[Amount] security deposit by [Date]'",
+          "Email 3: The Escalation \u2014 Subject: 'Final notice: Security deposit owed + state statutory penalties'",
+          "Email 4: Intent to Sue \u2014 Subject: 'Preparing small claims court filing \u2014 security deposit dispute'",
+          "Bonus: Downloadable security deposit demand letter template library (CA, TX, FL, NY, IL, MA, CO, WA)"
+        ],
+        "key_points": [
+          "Lead every email with your state-specific legal deadline (30, 45, or 60 days) to create immediate urgency and show you know the law",
+          "Body copy must include exact deposit amount, move-out date, forwarding address, and a clear deadline for response",
+          "Reference penalties, interest, treble damages, and small claims court in later emails to maximize landlord compliance pressure",
+          "Include certified mail and read-receipt language to build a documented paper trail for court",
+          "Provide distinct copy blocks for 'security deposit return letter' vs 'demand letter for security deposit' scenarios"
+        ],
+        "cta": "Generate your state-specific security deposit demand letter now and send it in under 5 minutes.",
+        "target_audience": "US renters who have moved out and whose landlords have failed to return their security deposit within the state-mandated legal timeframe",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779774676",
+  "timestamp": "2026-05-26T05:53:15.489606+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here's How to Get It Back Fast",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights, legal deadlines, and how to write a demand letter that gets results.",
+        "content_outline": [
+          "Why Is My Landlord Withholding My Security Deposit?",
+          "How Long Does a Landlord Have to Return Your Deposit?",
+          "What Can a Landlord Legally Deduct From Your Security Deposit?",
+          "What To Do When Your Landlord Won't Give Your Deposit Back",
+          "How to Write a Security Deposit Dispute Letter That Works",
+          "Escalating Your Claim: Small Claims Court and Next Steps"
+        ],
+        "key_points": [
+          "Most states require landlords to return security deposits within 14 to 30 days after move-out.",
+          "Landlords cannot deduct for normal wear and tear; only actual damage and unpaid rent are legally permissible.",
+          "A formal demand letter is often the fastest way to recover a withheld deposit without going to court.",
+          "If a landlord misses the state deadline, they may forfeit the right to keep any portion of the deposit."
+        ],
+        "cta": "Stop waiting for a landlord who won't respond. Create your state-specific security deposit demand letter with DepositBack in minutes and take back what's yours.",
+        "target_audience": "Frustrated US renters whose landlords are withholding, delaying, or wrongfully deducting from their security deposit",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

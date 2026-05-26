@@ -1,0 +1,30 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779822577",
+  "timestamp": "2026-05-26T19:10:00.678370+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "3-Part Email Sequence: Recover Your Withheld Security Deposit Before the Deadline",
+        "meta_description": "Frustrated because your landlord is withholding your security deposit? Take urgent action with this 3-email guide to tenant rights and demand letter recovery.",
+        "content_outline": [
+          "Email 1 \u2014 Subject: 'Your landlord is withholding your deposit (clock is ticking)' | Body: Validate frustration, expose state deadlines (14\u201360 days), and introduce tenant rights.",
+          "Email 2 \u2014 Subject: 'Can they actually keep your money? (Probably not)' | Body: Break down illegal deductions, normal wear vs. damage, and what landlords can legally deduct.",
+          "Email 3 \u2014 Subject: 'Send this security deposit dispute letter today' | Body: Urgent CTA to generate a formal demand letter, outline next steps if landlord ignores it."
+        ],
+        "key_points": [
+          "State laws require landlords to return deposits within strict windows; once missed, tenants gain leverage but must act fast to preserve claims.",
+          "Landlords cannot withhold deposits for normal wear and tear, routine cleaning, or pre-existing conditions\u2014only actual damages beyond ordinary use.",
+          "Tenants who send a formal, state-specific demand letter recover funds faster than those who rely on texts or phone arguments.",
+          "A written dispute letter creates a paper trail that strengthens a small-claims case if the landlord refuses to return the deposit."
+        ],
+        "cta": "Don't let your landlord keep what's yours. Generate your state-specific security deposit demand letter in under 5 minutes and take the first step toward getting your money back.",
+        "target_audience": "Frustrated U.S. renters whose landlords are withholding, delaying, or wrongfully deducting from their security deposit and need immediate, actionable guidance to recover their funds.",
+        "word_count_target": 1000
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779838525",
+  "timestamp": "2026-05-26T23:37:31.042414+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Demand Letter Email Sequence: Recover Your Deposit in 72 Hours",
+        "meta_description": "Draft a state-specific security deposit demand letter with our proven 5-email sequence. Recover your deposit fast when your landlord won't return your money.",
+        "content_outline": [
+          "Email 1: The 72-Hour Warning \u2014 Subject: 'Final Notice: Return My Security Deposit (or Face Penalties)' \u2014 Body: Urgent opening citing missed state deadline and tenant rights.",
+          "Email 2: State Law Violation \u2014 Subject: '[State] Law: You Have X Days to Return My Deposit' \u2014 Body: References specific state statutes (TX/CA/FL/IL/MA) and itemized deduction requirements.",
+          "Email 3: Formal Demand Letter \u2014 Subject: 'Security Deposit Demand Letter Enclosed (Certified Mail)' \u2014 Body: Attaches state-specific template, disputes false deductions, demands full refund plus statutory damages.",
+          "Email 4: Escalation Notice \u2014 Subject: 'Next Step: Small Claims Court + Statutory Damages' \u2014 Body: Warns of legal filing, treble damages, and attorney fee provisions; sets 48-hour deadline.",
+          "Email 5: Final Settlement \u2014 Subject: 'Last Chance: Avoid Court \u2014 Return My Deposit Today' \u2014 Body: Offers final payment window and emphasizes public record risks for landlord."
+        ],
+        "key_points": [
+          "Subject lines target high-intent keywords: 'security deposit demand letter template', 'how to get security deposit back', 'landlord won't return security deposit', and 'security deposit return letter'.",
+          "Body copy opens with state-specific deadlines and legal citations to create immediate urgency and establish documented leverage.",
+          "Each email builds escalating legal pressure: from polite demand to certified letter threat to small claims court filing.",
+          "Mobile-optimized templates include pre-filled tenant/landlord fields, deduction dispute language, and a single prominent CTA driving to DepositBack.",
+          "Closings emphasize zero-cost recovery tools and state-compliant automation to convert anxious renters into immediate users."
+        ],
+        "cta": "Generate Your Free State-Specific Security Deposit Demand Letter Now \u2014 Get Paid in 72 Hours",
+        "target_audience": "US renters who have moved out and whose landlords have failed to return their security deposit within the legally mandated state timeframe, particularly in Texas, California, Florida, Illinois, and Massachusetts.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

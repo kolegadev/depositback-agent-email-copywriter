@@ -1,0 +1,33 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779891548",
+  "timestamp": "2026-05-27T14:20:34.505876+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here\u2019s How to Get It Back Fast",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights, what landlords can deduct, and how to demand your deposit back in 24 hours.",
+        "content_outline": [
+          "Why Your Landlord Is Withholding Your Security Deposit (And Why They Might Be Wrong)",
+          "What a Landlord Can and Cannot Deduct From Your Deposit",
+          "Tenant Rights: How Long Does a Landlord Have to Return Your Deposit?",
+          "What to Do When Your Landlord Won\u2019t Return Your Deposit",
+          "How to Write a Security Deposit Dispute Letter That Actually Works",
+          "Get Your Deposit Back: The 24-Hour Demand Letter Solution"
+        ],
+        "key_points": [
+          "Landlords must return security deposits within a state-specific timeframe\u2014usually 14 to 60 days\u2014and provide an itemized list of any deductions.",
+          "Normal wear and tear cannot be deducted; landlords may only withhold funds for actual damage beyond ordinary use or unpaid rent.",
+          "A formal, state-compliant demand letter is often the fastest and most effective way to recover a withheld deposit before escalating to small claims court.",
+          "DepositBack enables tenants to generate legally sound security deposit demand letters in minutes, creating immediate pressure for landlords to pay."
+        ],
+        "cta": "Don\u2019t let your landlord keep what\u2019s yours. Generate your state-specific security deposit demand letter with DepositBack today and recover your money fast.",
+        "target_audience": "Frustrated US renters whose landlords are withholding, delaying, or refusing to return a security deposit and need immediate, legally sound help to recover their money.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779893082",
+  "timestamp": "2026-05-27T14:46:02.064159+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Copy This 3-Email Demand Sequence",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights and use this copy-paste email sequence to demand your deposit back fast.",
+        "content_outline": [
+          "Hook: The real cost when your landlord is not returning your deposit",
+          "Know Your Rights: What a landlord can and cannot deduct from your security deposit",
+          "Email 1: Initial Demand \u2014 Subject line and body copy for a polite but firm first notice",
+          "Email 2: Escalation \u2014 Statute-backed follow-up when your deposit is still not returned",
+          "Email 3: Final Notice \u2014 Ultimatum security deposit dispute letter before small claims court",
+          "State Law Cheat Sheet: How long your landlord has to return your deposit",
+          "What to do next if your landlord refuses to give your deposit back"
+        ],
+        "key_points": [
+          "Email 1 Subject: 'Formal Demand: Return of Security Deposit \u2013 [Rental Address]' \u2014 Body restates lease end date, demands the full deposit amount, and cites the state-mandated deadline for return.",
+          "Email 2 Subject: 'Second Notice: Unreturned Security Deposit & Itemized Deduction Request' \u2014 Body challenges improper deductions, references specific tenant rights statutes, and sets a strict 7-day response deadline.",
+          "Email 3 Subject: 'Final Notice Before Legal Action \u2013 Security Deposit Dispute for [Address]' \u2014 Body demands immediate repayment, references statutory penalties and interest, and warns of imminent small claims court filing.",
+          "Landlords may only withhold deposits for actual damages beyond normal wear and tear or documented unpaid rent, and must provide an itemized statement in most states.",
+          "A written security deposit dispute letter creates a court-admissible paper trail and often forces compliance before litigation."
+        ],
+        "cta": "Skip the guesswork. Use DepositBack to generate a state-specific security deposit demand letter in minutes and get your money back faster.",
+        "target_audience": "Frustrated US renters whose landlord is withholding or refusing to return a security deposit and need actionable, legally sound demand letters immediately",
+        "word_count_target": 1500
+      }
+    }
+  ]
+}

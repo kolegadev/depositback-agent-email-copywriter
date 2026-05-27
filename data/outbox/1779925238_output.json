@@ -1,0 +1,35 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779925176",
+  "timestamp": "2026-05-27T23:40:38.401572+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? The Fast-Recovery Email Sequence + Demand Letter Template",
+        "meta_description": "Landlord withholding your security deposit? Know your tenant rights, valid deductions, and recover your money fast with our proven demand letter.",
+        "content_outline": [
+          "Why Your Landlord Is Withholding Your Security Deposit (And Why Most Deductions Are Illegal)",
+          "Tenant Rights 101: What a Landlord Can and Cannot Deduct by Law",
+          "The 5-Day Email Sequence to Send When Your Landlord Won't Return Your Deposit",
+          "How to Escalate from Final Demand to Small Claims Court",
+          "Generate Your State-Specific Security Deposit Demand Letter in Minutes"
+        ],
+        "key_points": [
+          "Email 1 - The Deadline Reminder: Subject: 'Re: [Rental Address] \u2014 Security Deposit Status Request'; Body: State your move-out date and cite your state\u2019s return deadline. Ask for an itemized deduction statement and a confirmed refund date.",
+          "Email 2 - The Compliance Warning: Subject: 'Second Notice: Unreturned Security Deposit \u2014 [Rental Address]'; Body: Cite the exact state statute your landlord is violating. Note that failure to return the deposit or provide an itemized list within the legal window may entitle you to statutory penalties, court costs, and attorneys\u2019 fees.",
+          "Email 3 - The Deduction Dispute: Subject: 'Disputing Security Deposit Deductions \u2014 [Rental Address]'; Body: Line-item refute improper charges for normal wear and tear, routine cleaning, or pre-existing damage. Attach photo evidence and restate your demand for the full deposit.",
+          "Email 4 - The Final Demand: Subject: 'Final Demand Before Legal Action \u2014 [Rental Address]'; Body: Notify the landlord that you will file a small claims lawsuit for the deposit amount plus treble/double damages if the funds are not returned within 72 hours.",
+          "Email 5 - The Escalation Notice: Subject: 'Urgent: Security Deposit Recovery Initiated \u2014 [Rental Address]'; Body: Summarize all prior communications, attach your formal demand letter, and state that the next step is court filing and a complaint to the local housing authority.",
+          "Most states require landlords to return security deposits within 14 to 30 days and only allow deductions for unpaid rent or damage beyond ordinary wear and tear.",
+          "A written security deposit dispute letter creates a court-admissible paper trail and often forces landlords to settle before a small claims filing."
+        ],
+        "cta": "Stop letting your landlord keep what's yours. Use DepositBack to create a state-specific security deposit demand letter in under 5 minutes and send the exact legal language that pressures landlords to pay up.",
+        "target_audience": "Problem-aware US renters who searched terms like 'landlord withholding security deposit,' 'landlord not returning deposit,' or 'tenant rights security deposit' and need an immediate, legally credible way to recover their money.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779868096",
+  "timestamp": "2026-05-27T07:53:05.482393+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "What to Do When Your Landlord Won't Return Your Security Deposit: A Step-by-Step Recovery Guide",
+        "meta_description": "Landlord withholding your deposit? Know your tenant rights, what landlords can deduct, and how to write a demand letter that gets your money back.",
+        "content_outline": [
+          "The real reason landlords withhold security deposits (and why most tenants do nothing)",
+          "Tenant rights 101: what a landlord can and cannot legally deduct",
+          "State-by-state deadlines: how long your landlord has to return your deposit",
+          "Step-by-step: what to do when your landlord doesn't return your deposit",
+          "How to write a security deposit dispute letter that triggers immediate payment",
+          "Escalation playbook: from ignored email to court-ready documentation"
+        ],
+        "key_points": [
+          "Most states require landlords to return security deposits within 14\u201330 days; missing this deadline often forfeits their right to deduct anything",
+          "Normal wear and tear, cleaning fees without receipts, and vague 'damage' charges are illegal deductions in most jurisdictions",
+          "A formal, state-specific demand letter is the single most effective pre-court tactic to recover a withheld deposit",
+          "DepositBack automates legally compliant demand letters tailored to your state\u2019s landlord-tenant statutes"
+        ],
+        "cta": "Generate your free, state-compliant security deposit demand letter in under 5 minutes\u2014recover what's yours.",
+        "target_audience": "Frustrated US renters whose landlords are withholding, delaying, or wrongfully deducting from their security deposit and need an immediate, legally sound recovery strategy",
+        "word_count_target": 800,
+        "email_sequence": [
+          {
+            "subject": "Your landlord is withholding your security deposit (do this now)",
+            "preview_text": "Most tenants wait too long. Don't be one of them.",
+            "body": "You moved out. You cleaned up. You handed back the keys.\n\nAnd now your landlord won't give you your deposit back.\n\nSound familiar? You're not alone\u2014and you're not powerless.\n\nEvery state has strict deadlines for returning deposits. When landlords miss them, they often forfeit their right to keep a single dollar.\n\nBut here's the hard truth: sending a friendly text asking \"where's my money?\" gets ignored. Every time.\n\nWhat actually gets results is a formal demand letter that cites the exact state law your landlord is breaking.\n\nThat one piece of paper turns your complaint into a documented legal threat.\n\nDon't let them keep what's yours.\n\nGenerate your demand letter now \u2192"
+          },
+          {
+            "subject": "Can your landlord legally keep this?",
+            "preview_text": "4 deductions that are actually illegal.",
+            "body": "Your landlord deducted $400 for \"cleaning\" and another $300 for \"wear and tear\"?\n\nLet's be clear: normal wear and tear is NOT deductible. Neither is vague cleaning without itemized receipts.\n\nIf your landlord is holding your deposit for any of the following, they're likely violating tenant rights:\n\n- Faded paint or minor wall scuffs\n- Carpet wear from normal foot traffic\n- Pre-existing damage you documented at move-in\n- \"Administrative\" or general cleaning fees\n\nBefore you accept a partial refund, know what they can and cannot take.\n\nBecause once you know your rights, you can fight back\u2014with a letter that proves you know the law.\n\nSee if your deductions are legal \u2192"
+          },
+          {
+            "subject": "Copy-paste this security deposit dispute letter",
+            "preview_text": "Tenants who send this get paid faster.",
+            "body": "You don't need a lawyer to scare your landlord into paying. You need the right words on official letterhead.\n\nOur security deposit dispute letter template is built on:\n\n\u2713 Your state's specific landlord-tenant statutes\n\u2713 Legally required response deadlines\n\u2713 Formal language that triggers real accountability\n\nMost tenants who send a professionally written demand letter get their deposit back within 14 days\u2014without ever setting foot in court.\n\nWhy? Because landlords know when a tenant is bluffing versus when they're lawsuit-ready.\n\nThis letter shows you're ready.\n\nGenerate your personalized dispute letter now \u2192"
+          },
+          {
+            "subject": "They ignored your letter. Now what?",
+            "preview_text": "The clock is ticking. Here's your next move.",
+            "body": "You sent the letter. You gave them a deadline. And still... silence.\n\nThis isn't a negotiation anymore. It's a violation.\n\nWhen your landlord doesn't return your deposit after receiving a formal demand, state law often entitles you to:\n\n- Your full deposit back\n- Statutory damages (sometimes double or triple the amount)\n- Reimbursement of court and attorney fees\n\nThe next step isn't begging. It's documented, escalated legal action.\n\nDepositBack helps you move from demand to lawsuit-ready documentation in minutes\u2014so when you walk into small claims court, you walk in prepared.\n\nEscalate your claim now \u2192"
+          },
+          {
+            "subject": "Don't write off that $1,200",
+            "preview_text": "Your landlord is betting you'll give up. Prove them wrong.",
+            "body": "The average security deposit in the U.S. is over $1,200.\n\nThat's not pocket change. That's next month's rent. That's groceries. That's your safety net.\n\nYour landlord is withholding your security deposit because they think you'll prioritize your energy elsewhere.\n\nDon't prove them right.\n\nIn under 5 minutes, you can generate a state-compliant demand letter that makes it clear: you know the law, you know the deadline, and you won't disappear.\n\nNo legal jargon required. No upfront fees. Just the exact words that get deposits returned.\n\nGet my deposit back \u2192"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779919393",
+  "timestamp": "2026-05-27T22:05:49.797899+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Recovery Email Sequence: Demand Letters That Work",
+        "meta_description": "5-email sequence for US renters ready to demand their security deposit back. State-specific letters, legal deadlines, and zero-risk recovery.",
+        "content_outline": [
+          "Email 1: The Legal Deadline Trigger \u2014 Subject: 'Your landlord has [X] days left (state law)' \u2014 Introduces state-specific demand letter urgency and the cost of waiting",
+          "Email 2: Template Warning \u2014 Subject: 'Why a free security deposit demand letter template could cost you $2,000' \u2014 Differentiates DepositBack from generic forms and free downloads",
+          "Email 3: Silent Landlord Protocol \u2014 Subject: 'Your landlord won't return your deposit. Here's your next move.' \u2014 Escalation tactics, renter rights, and certified mail proof",
+          "Email 4: Writing Workshop \u2014 Subject: 'How to write a security deposit demand letter that landlords actually fear' \u2014 Educational pivot that proves expertise before pitching the done-for-you solution",
+          "Email 5: Final Recovery Window \u2014 Subject: 'Final notice: your security deposit refund letter is ready to send' \u2014 Last-chance urgency, deadline countdown, and homepage conversion CTA"
+        ],
+        "key_points": [
+          "Subject lines front-load transactional keywords: 'security deposit demand letter', 'landlord won't return security deposit', 'how to write security deposit letter', 'security deposit refund letter', and 'demand letter for security deposit'",
+          "Email body copy leads with money-first urgency ('You are owed $X') and cites state-specific legal deadlines to compel immediate action from high-intent renters",
+          "Each message targets a keyword cluster from autocomplete suggestions, including state variants for California, Texas, Florida, Massachusetts, Illinois, and Washington",
+          "The sequence progresses from education to escalation: Email 1 establishes the deadline, Email 2 kills generic templates, Email 3 addresses non-responsive landlords, Email 4 teaches the 'how to' before pitching DepositBack, and Email 5 delivers a final recovery deadline",
+          "All CTAs drive to the DepositBack homepage to generate a certified, state-compliant demand letter in under 5 minutes with tracking, legal threat language, and itemized deduction disputes built in"
+        ],
+        "cta": "Start My Demand Letter \u2014 Recover Your Deposit in Minutes",
+        "target_audience": "US renters who have moved out within the last 1-6 months and have not received their full security deposit refund, or whose landlord has provided unjustified deductions and is unresponsive",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

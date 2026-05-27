@@ -1,0 +1,33 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779912672",
+  "timestamp": "2026-05-27T20:12:11.114185+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Recovery Email Sequence: Convert Frustrated Tenants into Demand Letter Users",
+        "meta_description": "High-urgency email sequence for tenants with landlords withholding security deposits. Recover your money fast with state-compliant demand letters.",
+        "content_outline": [
+          "Email 1 \u2013 The Awareness Hook. Subject: 'Your landlord is withholding your security deposit (do this first).' Body targets keywords 'landlord withholding security deposit' and 'security deposit not returned.' Opens with empathy: 'You moved out, left the place clean, and now your landlord is not returning your deposit.' Introduces state-mandated deadlines (21\u201330 days) and the cost of inaction.",
+          "Email 2 \u2013 The Rights Check. Subject: 'Is my landlord required to return my deposit? State law says yes.' Body targets 'is my landlord required to return my deposit' and 'tenant rights security deposit.' Breaks down the legal obligation to provide an itemized statement and the exact timeline by state.",
+          "Email 3 \u2013 The Deduction Dispute. Subject: 'What can a landlord deduct from your security deposit? Probably not this.' Body targets 'what can landlord deduct from security deposit' and 'can landlord keep security deposit.' Lists allowable vs. non-allowable deductions and introduces the security deposit dispute letter as the first formal step.",
+          "Email 4 \u2013 The Action Step. Subject: 'My landlord won't give me my deposit back\u2014here's the 10-minute fix.' Body targets 'my landlord won't give me my deposit back' and 'what to do when landlord doesn't return deposit.' Positions DepositBack's automated demand letter as the fastest path to recovery before small claims court.",
+          "Email 5 \u2013 The Final Urgency. Subject: '[First Name], your deposit recovery window is closing.' Body reiterates consequences of waiting and deploys final CTA to generate and send the state-specific demand letter immediately. Social proof: 'Tenants who send demand letters recover 3x faster.'"
+        ],
+        "key_points": [
+          "Subject lines intentionally mirror exact-match search phrases like 'landlord withholding security deposit' and 'security deposit not returned' to maximize inbox recognition and emotional resonance.",
+          "Body copy validates the 'frustrated tenant seeking help' emotional state within the first 15 words, then pivots to actionable legal authority and state-specific urgency.",
+          "The sequence progresses from problem education (awareness) to solution introduction (consideration) to direct conversion (demand letter generation), with escalating urgency at each touchpoint.",
+          "State-specific deadlines (e.g., 21 days in California, 30 days in Texas and New York) are repeated throughout to manufacture time pressure and relevance.",
+          "DepositBack CTA layers from low-commitment ('See what your state allows') to high-commitment ('Generate and mail your letter today') across the five-email journey."
+        ],
+        "cta": "Recover your security deposit now. Generate a state-compliant demand letter in under 3 minutes and send it to your landlord today.",
+        "target_audience": "Problem-aware US tenants actively searching for help after their landlord withheld, delayed, or refused to return a security deposit, emotionally frustrated but unsure of their legal next steps.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

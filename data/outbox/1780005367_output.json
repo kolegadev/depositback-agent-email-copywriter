@@ -1,0 +1,50 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1780005256",
+  "timestamp": "2026-05-28T21:56:07.347001+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Your Step-by-Step Guide to Getting It Back",
+        "meta_description": "Landlord withholding your security deposit? Learn your tenant rights, what deductions are illegal, and how a demand letter can recover your money fast.",
+        "content_outline": [
+          "The Real Reason Your Landlord Is Withholding Your Security Deposit",
+          "Tenant Rights 101: What Can a Landlord Legally Deduct?",
+          "How to Write a Security Deposit Dispute Letter That Gets Results",
+          "State-by-State Deadlines: How Long Is Too Long?",
+          "Your Fastest Path to Recovery: DepositBack"
+        ],
+        "key_points": [
+          "Landlords in most states must return security deposits within 14-30 days and provide an itemized statement of any deductions.",
+          "Normal wear and tear is not a valid deduction; only damage exceeding ordinary use and unpaid rent may qualify.",
+          "A formal, state-specific demand letter citing landlord-tenant statutes often forces compliance without going to court.",
+          "Many states allow tenants to sue for double or triple damages plus legal fees if a landlord withholds a deposit in bad faith."
+        ],
+        "cta": "Stop waiting and hoping. Generate your state-specific security deposit demand letter with DepositBack in under 5 minutes and get your money back.",
+        "target_audience": "Frustrated US renters whose landlord is withholding, delaying, or wrongfully deducting a security deposit after move-out.",
+        "word_count_target": 800,
+        "email_sequence": [
+          {
+            "subject_line": "Still waiting for your deposit?",
+            "body_copy": "Hi [First Name],\n\nYou handed over your keys. You left the place spotless. And now your landlord is ghosting you.\n\nIf you're searching \"landlord not returning deposit\" or \"my landlord won't give me my deposit back,\" you're not alone. Thousands of tenants every month have their security deposit withheld illegally.\n\nThe truth? Most landlords bank on you giving up.\n\nOver the next few days, I'll send you exactly what your landlord can (and cannot) deduct, your state-mandated deadline, and the fastest way to demand your money back.\n\nStay tuned,\nThe DepositBack Team"
+          },
+          {
+            "subject_line": "Can your landlord actually keep that money?",
+            "body_copy": "Hi [First Name],\n\n\"Normal wear and tear.\"\n\nYou'll hear that phrase a lot when a landlord tries to keep your deposit. But here's the reality: scuffed floors, faded paint, and minor carpet wear are NOT valid deductions.\n\nIf you're wondering \"what can landlord deduct from security deposit,\" the legal list is short:\n- Unpaid rent (in some states)\n- Damage beyond ordinary use\n- Cleaning costs (only if you left the place trashed)\n\nLandlords often inflate charges or withhold deposits outright, hoping you won't know your tenant rights.\n\nTomorrow, I'll show you the single document that makes most landlords pay up immediately.\n\nTalk soon,\nThe DepositBack Team"
+          },
+          {
+            "subject_line": "The letter that gets deposits back",
+            "body_copy": "Hi [First Name],\n\nA security deposit dispute letter isn't just an email complaint. It's a formal legal demand that tells your landlord you know your rights\u2014and you're prepared to sue.\n\nWhen a landlord receives a properly formatted demand citing state law and a firm deadline, the math changes fast. Legal fees and double-damage penalties suddenly look more expensive than simply writing you a check.\n\nYou could spend hours drafting one yourself, guessing at legal language...\n\nOr you can generate a state-specific, attorney-reviewed security deposit demand letter with DepositBack in under 5 minutes.\n\n[CTA LINK]\n\nWe help frustrated tenants turn \"my landlord won't give me my deposit back\" into money in the bank.\n\nBest,\nThe DepositBack Team"
+          },
+          {
+            "subject_line": "Don't miss your deadline",
+            "body_copy": "Hi [First Name],\n\nEvery day you wait, your landlord thinks they've won.\n\nMost states give landlords 14 to 30 days to return your deposit or provide an itemized deduction list. After that, they're breaking the law\u2014and you may be entitled to double or even triple damages.\n\nStop searching \"what to do when landlord doesn't return deposit.\" The answer is simple: hit them with a formal demand letter today.\n\nDepositBack creates your customized letter in minutes, references your specific state statutes, and tracks delivery so you have proof.\n\n[CTA LINK]\n\nGet your deposit back now.\n\n- The DepositBack Team\n\nP.S. If they still refuse after the letter, you'll have everything you need to win in small claims court."
+          }
+        ]
+      }
+    }
+  ]
+}

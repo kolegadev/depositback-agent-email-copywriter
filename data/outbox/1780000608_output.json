@@ -1,0 +1,31 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1780000439",
+  "timestamp": "2026-05-28T20:36:48.084777+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "7-Day Security Deposit Recovery Email Sequence: Demand Letter Templates That Work",
+        "meta_description": "Landlord won't return your security deposit? Use our free demand letter template to get your money back fast. State-specific and legally sound.",
+        "content_outline": [
+          "Hook & Problem Agitation: 'Landlord Won't Return Security Deposit' \u2014 The Cost of Waiting",
+          "The Asset: How to Write a Security Deposit Letter to Landlord (Template + State Law Cheat Sheet)",
+          "Email Sequence Structure: From Security Deposit Refund Letter to Escalation",
+          "Urgency & Proof: Real Timelines for Security Deposit Demand Letters in CA, TX, FL, and NY",
+          "The Ask: Generate Your Done-For-You Demand Letter for Security Deposit"
+        ],
+        "key_points": [
+          "Subject lines leverage high-intent queries: 'how to get security deposit back,' 'security deposit demand letter template,' and 'landlord won't return security deposit'",
+          "Each email bridges transactional intent with immediate utility, offering the template in Email 1, state deadline education in Email 2, and escalation via DepositBack in Email 3",
+          "Copy emphasizes legal urgency (state-mandated return windows) and financial loss to drive clicks from the homepage"
+        ],
+        "cta": "Get Your Free Security Deposit Demand Letter \u2014 Take 2 Minutes & Get Paid What You're Owed.",
+        "target_audience": "US renters who have recently moved out and are searching for a security deposit demand letter template or security deposit return letter because their landlord has withheld, delayed, or failed to return their deposit.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

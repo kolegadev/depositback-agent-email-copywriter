@@ -1,0 +1,30 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779990397",
+  "timestamp": "2026-05-28T17:48:16.620089+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Demand Letter Email Sequence: Subject Lines, Templates & Legal Deadlines",
+        "meta_description": "Recover your security deposit with our 5-email demand sequence. Get state-specific templates, legal subject lines, and urgency-driven body copy. Start now.",
+        "content_outline": [
+          "Email Sequence Strategy: The 5-Touch Recovery Framework for US Renters",
+          "High-Converting Subject Lines and Preview Text for Every Stage",
+          "Body Copy Templates: From Polite Request to Statutory Demand Letter"
+        ],
+        "key_points": [
+          "Subject Line Swipes: 'Security Deposit Overdue \u2013 [Property Address]', 'Legal Demand: [State] Statute Violation', '48-Hour Notice: Intent to File Small Claims', 'Final Attempt Before Litigation \u2013 Deposit Due Immediately'",
+          "Email Body Framework: Paragraph 1 verifies move-out date and forwarding address; Paragraph 2 cites exact state statute and legal deadline; Paragraph 3 disputes illegitimate deductions with move-out photo evidence; Paragraph 4 demands full refund plus statutory penalties by a specific calendar date; Paragraph 5 notes certified mail delivery and consequences of non-payment",
+          "Urgency Progression: Day 1 courtesy request, Day 7 statutory deadline warning, Day 14 legal violation notice, Day 21 final demand before counsel, Day 30 small claims escalation\u2014each layer increasing pressure while maintaining legal compliance",
+          "Keyword Integration: Natural placement of 'security deposit demand letter template', 'how to get security deposit back', 'landlord won't return security deposit', 'security deposit refund letter', and state-specific demand letter variants to capture transactional search intent"
+        ],
+        "cta": "Launch your recovery sequence now\u2014generate a state-specific, legally cited security deposit demand letter with DepositBack and send it via certified mail in minutes.",
+        "target_audience": "US renters who have moved out within the last 6 months and have not received their security deposit refund within the statutory window, or who received unjustified deductions, and need a structured legally sound email and letter sequence to compel landlord compliance",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

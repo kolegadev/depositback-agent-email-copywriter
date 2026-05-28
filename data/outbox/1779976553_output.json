@@ -1,0 +1,34 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1779976111",
+  "timestamp": "2026-05-28T13:55:53.980859+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Recover It Fast With These Steps",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights, what landlords can legally deduct, and how to demand your deposit back today.",
+        "content_outline": [
+          "Introduction: The Real Cost of a Withheld Security Deposit",
+          "Is Your Landlord Breaking the Law? Know Your Tenant Rights",
+          "What a Landlord Can (and Cannot) Deduct From Your Deposit",
+          "How Long Is Too Long? State Deadlines for Deposit Returns",
+          "Step-by-Step: Writing a Security Deposit Dispute Letter That Works",
+          "When to Escalate: From Demand Letter to Small Claims Court",
+          "Final Checklist: Take Action Before Your Deadline Expires"
+        ],
+        "key_points": [
+          "Most states require landlords to return security deposits within 14 to 30 days and provide an itemized deduction list",
+          "Normal wear and tear, minor carpet wear, and routine cleaning are not legally deductible from a tenant's deposit",
+          "A formal, state-specific demand letter is the single most effective tool to recover a withheld deposit without immediately hiring an attorney",
+          "Landlords often return deposits immediately upon receiving a professional demand letter to avoid court penalties and interest fees"
+        ],
+        "cta": "Don't let your landlord keep what's yours. Generate your state-specific security deposit demand letter with DepositBack in minutes\u2014no lawyer required.",
+        "target_audience": "Frustrated U.S. renters whose landlords are withholding, delaying, or wrongfully deducting from their security deposit and need immediate, actionable guidance to recover their money",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

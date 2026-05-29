@@ -1,0 +1,35 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1780070458",
+  "timestamp": "2026-05-29T16:02:32.140240+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Demand Letter Email Sequence: Recover Your Deposit in 14 Days",
+        "meta_description": "Recover your deposit fast with our security deposit demand letter email sequence. Free templates, subject lines & state laws. Start your claim today.",
+        "content_outline": [
+          "Introduction: The 'Landlord Won't Return Security Deposit' Problem & Why Timing Matters",
+          "The 3-Email Security Deposit Recovery Sequence: Overview & State Deadlines",
+          "Email 1: Initial Security Deposit Refund Request (Day 1) \u2014 Subject Lines & Body Copy Template",
+          "Email 2: Formal Security Deposit Demand Letter (Day 7) \u2014 Legal Demand Copy & Escalation",
+          "Email 3: Final Notice Before Small Claims (Day 14) \u2014 Ultimatum Subject Lines & Body Copy",
+          "How to Write a Security Deposit Demand Letter: Keyword-Optimized Tips for Every State",
+          "CTA & Next Steps: Generate Your Demand Letter Instantly"
+        ],
+        "key_points": [
+          "Target primary keywords ('security deposit demand letter template', 'how to get security deposit back') in subject lines, preview text, and body headers to capture transactional search intent",
+          "Front-load urgency by referencing state-specific return deadlines (e.g., CA 21 days, TX 30 days) and potential double-damages to motivate immediate action",
+          "Draft three distinct email tones: collaborative (Email 1), formal/legal (Email 2), and adversarial/final (Email 3) to match the renter's escalating situation",
+          "Include copy-and-paste body templates and high-open-rate subject lines such as 'Immediate Action Required: Security Deposit Overdue' and 'Formal Demand for Return of Security Deposit'",
+          "Close each section with a transactional CTA driving users to the automated demand letter generator to convert urgency into sign-ups"
+        ],
+        "cta": "Generate Your State-Specific Security Deposit Demand Letter\u2014Start Your Free Claim in 2 Minutes",
+        "target_audience": "US renters whose landlords have failed to return a security deposit within the state-mandated deadline, or who received unfair deductions and need a fast, legally sound way to demand repayment",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

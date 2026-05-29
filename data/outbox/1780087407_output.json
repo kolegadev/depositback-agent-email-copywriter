@@ -1,0 +1,33 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1780087364",
+  "timestamp": "2026-05-29T20:43:27.995120+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? 5-Email Recovery Sequence",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your rights, valid deductions, and how to write a dispute letter to recover your money fast.",
+        "content_outline": [
+          "Email 1: The Silent Deadline \u2014 Why Your Landlord Hasn't Returned Your Deposit",
+          "Email 2: Know Your Rights \u2014 What Landlords Can and Cannot Deduct From Your Security Deposit",
+          "Email 3: The Dispute Letter \u2014 How to Demand Your Deposit Back in Writing",
+          "Email 4: Escalation \u2014 What to Do When Your Landlord Ignores Your Demand",
+          "Email 5: Your Fastest Path to Recovery \u2014 Generate Your Demand Letter with DepositBack"
+        ],
+        "key_points": [
+          "Landlords must return security deposits within a strict state-specific timeframe, typically 14 to 30 days after move-out.",
+          "Normal wear and tear cannot be deducted; only unpaid rent, actual damage beyond ordinary use, and lease-violation-related costs are legally permissible.",
+          "A formal security deposit demand letter is the most effective first step to recovery and creates a paper trail before small claims court.",
+          "Tenants who document move-in and move-out conditions with photos and receipts win significantly more disputes.",
+          "Many states entitle wronged tenants to double or triple damages, plus attorney fees, if a landlord is found to have illegally withheld a deposit."
+        ],
+        "cta": "Stop waiting. Create your state-specific security deposit demand letter with DepositBack in minutes and force your landlord to respond.",
+        "target_audience": "Problem-aware U.S. renters whose landlords are withholding, delaying, or wrongfully deducting security deposits; emotionally frustrated and seeking immediate, legally sound recovery solutions.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

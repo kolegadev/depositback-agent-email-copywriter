@@ -1,0 +1,35 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1780080097",
+  "timestamp": "2026-05-29T18:42:40.161344+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Demand Letter: Free Templates & Recovery Email Sequence",
+        "meta_description": "Get your security deposit back with state-specific demand letter templates and a proven recovery email sequence. Free downloads for CA, TX, FL & more.",
+        "content_outline": [
+          "Why Most Landlords Ignore Informal Deposit Requests",
+          "The State-by-State Deadline Cheat Sheet (CA, TX, FL, NY, IL)",
+          "Download Your Free Security Deposit Demand Letter Template",
+          "The 4-Part Urgency Email Sequence to Recover Your Deposit",
+          "When Demand Letters Fail: Small Claims Court & Treble Damages",
+          "How DepositBack Automates Your Demand Letter in Under 5 Minutes"
+        ],
+        "key_points": [
+          "Email 1 (Immediate) \u2014 Subject: 'Overdue: [Rental Address] Security Deposit Status (Legal Deadline Passed)' | Body: Cite exact state statute and deadline; request full refund within 48 hours; mention itemized deduction requirements to invalidate vague landlord claims.",
+          "Email 2 (Day 3) \u2014 Subject: 'Final Demand Before Legal Action: Security Deposit Return Required' | Body: Attach formal security deposit demand letter PDF; state specific dollar amount owed; warn of penalties including statutory interest and treble damages where applicable.",
+          "Email 3 (Day 7) \u2014 Subject: 'Landlord Non-Response Logged: Escalating to Small Claims Court' | Body: Document lack of response; reiterate demand for deposit refund plus court costs; emphasize that judge will review failure to provide written itemization as evidence of bad faith.",
+          "Email 4 (Day 14) \u2014 Subject: '48-Hour Notice: Court Filing Prepared for [Landlord Name]' | Body: Final warning with concrete filing date; demand immediate wire/check for full deposit amount; note that public court records affect rental property reputation and credit reporting.",
+          "Transactional keyword alignment: Primary header targets 'security deposit demand letter' and 'security deposit demand letter template'; subheadings target 'how to get security deposit back' and 'landlord won't return security deposit' to match high-intent search volume.",
+          "Urgency triggers: Use time-bound language ('legal deadline passed,' '48-hour notice,' 'court filing prepared') and state-specific penalty references to compel immediate click-through and template download."
+        ],
+        "cta": "Generate Your Free, State-Specific Security Deposit Demand Letter Now",
+        "target_audience": "US renters who have moved out and whose landlords have failed to return their security deposit within the legally mandated state timeframe, typically ranging from 14 to 60 days.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

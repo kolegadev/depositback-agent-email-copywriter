@@ -1,0 +1,30 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1780078801",
+  "timestamp": "2026-05-29T18:20:47.013633+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Act Before Time Runs Out",
+        "meta_description": "Is your landlord not returning your deposit? Discover your tenant rights and the fastest way to demand your security deposit back today.",
+        "content_outline": [
+          "The Real Reason Your Landlord Won't Give You Your Deposit Back",
+          "Tenant Rights 101: What a Landlord Can and Cannot Deduct",
+          "How to Escalate When Your Security Deposit Is Not Returned"
+        ],
+        "key_points": [
+          "State deadlines: Most landlords must return deposits within 14-45 days or face statutory penalties",
+          "Illegal deductions: Normal wear and tear, routine cleaning, and vague damage charges are often unlawful",
+          "Documentation wins: Move-in/move-out photos and receipts dramatically increase recovery odds",
+          "Demand letters work: A formal security deposit dispute letter is the fastest way to force payment before small claims court"
+        ],
+        "cta": "Stop waiting. Generate a state-specific security deposit demand letter in under 5 minutes with DepositBack and make your landlord pay attention.",
+        "target_audience": "Frustrated US renters dealing with landlords withholding security deposits, making unlawful deductions, or ignoring state return deadlines",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

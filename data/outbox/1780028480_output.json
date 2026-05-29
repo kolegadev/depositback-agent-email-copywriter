@@ -1,0 +1,32 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1780028407",
+  "timestamp": "2026-05-29T04:21:20.883852+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Demand Letter Email Sequence: Recover Your Deposit in 7 Days",
+        "meta_description": "Get your security deposit back with a legally sound demand letter. Use our free templates and proven 3-email sequence to recover your deposit fast.",
+        "content_outline": [
+          "Email 1: The Deadline Alert \u2014 Subject line focuses on 'security deposit return letter' and state-mandated timeline",
+          "Email 2: The Demand Letter Delivery \u2014 Attached templated demand letter for security deposit with legal citations",
+          "Email 3: The Pre-Litigation Final Notice \u2014 Urgent escalation citing 'landlord won't return security deposit' consequences"
+        ],
+        "key_points": [
+          "Subject: '[Action Required] Your Security Deposit is [X] Days Overdue' \u2014 targets 'how to get security deposit back' intent with urgency",
+          "Subject: 'Attached: My Security Deposit Demand Letter (Template Included)' \u2014 aligns with 'security deposit demand letter template' keyword",
+          "Subject: 'Final Notice Before Small Claims: Return My Deposit' \u2014 hooks users searching 'landlord won't return security deposit'",
+          "Body Copy Framework: State the law (e.g., CA Civil Code \u00a7 1950.5), state the exact amount owed, demand return within 72 hours",
+          "Body Copy Framework: Offer a pre-written, state-customizable security deposit refund letter to lower friction for hesitant renters",
+          "Body Copy Framework: Warn of next legal steps (small claims, treble damages) to compel immediate landlord compliance"
+        ],
+        "cta": "Create your state-specific security deposit demand letter now \u2014 start recovering your deposit before the deadline passes.",
+        "target_audience": "US renters in CA, TX, FL, NY, IL, MA, WA, CO, and OK who have not received their security deposit refund within the legal timeframe and are actively searching for demand letter templates or ways to force their landlord to return their deposit.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

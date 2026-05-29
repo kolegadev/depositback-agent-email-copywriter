@@ -1,0 +1,30 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1780088630",
+  "timestamp": "2026-05-29T21:04:33.181819+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "DepositBack Email Sequence: Security Deposit Demand Letter Recovery Campaign",
+        "meta_description": "Recover your security deposit fast with state-specific demand letter templates. 3-email sequence for renters whose landlord won't return their deposit.",
+        "content_outline": [
+          "Email 1: The Legal Deadline Reminder \u2014 Introduces the security deposit demand letter template and state-law urgency",
+          "Email 2: The Escalation \u2014 Addresses 'landlord won't return security deposit' with damages warnings and certified-mail proof",
+          "Email 3: The Final Notice \u2014 Pushes the security deposit refund letter with small-claims leverage and last-chance CTA"
+        ],
+        "key_points": [
+          "Subject Line 1: Your security deposit demand letter is ready ([State]) \u2014 Body: Hi [First Name], Every day you wait is another day your landlord keeps your money. State law gives them a hard deadline to return your deposit. Our attorney-reviewed security deposit demand letter template is pre-filled for [State]\u2014just add your details and send it certified mail. Don't let them ignore you. CTA: Generate My Letter Now",
+          "Subject Line 2: Still no check? What to do when your landlord won't return your security deposit \u2014 Body: Hi [First Name], If your landlord missed the legal deadline, they aren't just late\u2014they may owe you double or triple damages under [State] law. Stop sending texts that get ignored. A formal demand letter for security deposit return proves you know your rights and starts the legal clock. CTA: Start My Demand Letter Before Midnight",
+          "Subject Line 3: FINAL NOTICE: Your security deposit return letter is waiting \u2014 Body: Hi [First Name], This is it. Your security deposit refund letter is written, state-specific, and ready to send. If they ignore this certified notice, you'll have court-admissible proof that you gave them a final chance. Get your money back today. CTA: Send My Letter & Recover My Deposit",
+          "SEO Keyword Integration: security deposit demand letter, security deposit demand letter template, how to get security deposit back, landlord won't return security deposit, security deposit letter to landlord, demand letter for security deposit, security deposit refund letter, security deposit return letter, how to write security deposit letter"
+        ],
+        "cta": "Generate Your Free State-Specific Security Deposit Demand Letter in 60 Seconds",
+        "target_audience": "US renters who have moved out within the last 30\u201390 days and have not received their full security deposit refund, or whose landlord is ignoring refund requests",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

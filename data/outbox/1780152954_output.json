@@ -1,0 +1,35 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1780152771",
+  "timestamp": "2026-05-30T14:55:54.973204+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Your Recovery Playbook",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights, what landlords can deduct, and how to write a dispute letter that works.",
+        "content_outline": [
+          "The Silent Treatment: Why Your Landlord Is Withholding Your Security Deposit",
+          "Know the Deadline: How Long Your Landlord Legally Has to Return Your Deposit",
+          "Valid Charges vs. Bogus Fees: What Can a Landlord Deduct From Your Deposit",
+          "The 3-Email Demand Sequence to Recover Your Security Deposit Fast",
+          "How to Write a Security Deposit Dispute Letter That Gets Results",
+          "Escalation Guide: What to Do When Your Landlord Still Won't Give Your Deposit Back"
+        ],
+        "key_points": [
+          "State laws typically require deposit returns within 14 to 60 days; missing the deadline can trigger statutory penalties or double damages",
+          "Normal wear and tear cannot be deducted; only unpaid rent, excessive property damage, and lease-violation-related costs are legally valid",
+          "Email 1 \u2014 Subject: 'Re: Security deposit for [Address] \u2014 Return overdue' | Body: Formal request citing state deadline and forwarding address",
+          "Email 2 \u2014 Subject: 'Second Notice: Unreturned security deposit' | Body: Demand for itemized deductions and warning of legal consequences",
+          "Email 3 \u2014 Subject: 'Final Demand: Legal action pending' | Body: Ultimatum with specific deadline before small claims court filing",
+          "A professionally written security deposit dispute letter creates a legal paper trail and often forces immediate payment without court"
+        ],
+        "cta": "Stop chasing your landlord. Use DepositBack to generate your state-specific security deposit demand letter in minutes and recover what's rightfully yours.",
+        "target_audience": "Frustrated US renters whose landlord is withholding, not returning, or wrongfully deducting from their security deposit and need urgent, actionable help",
+        "word_count_target": 1500
+      }
+    }
+  ]
+}

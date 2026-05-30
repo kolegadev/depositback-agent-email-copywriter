@@ -1,0 +1,35 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1780125804",
+  "timestamp": "2026-05-30T07:24:15.631387+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Demand Letter Email Sequence: Recover Your Deposit in 48 Hours",
+        "meta_description": "Use our security deposit demand letter email sequence to get your money back fast. Free templates for CA, TX, FL & all 50 states. Start now.",
+        "content_outline": [
+          "Introduction: The Real Reason Landlords Ignore Security Deposit Return Requests",
+          "Email 1: The Polite Refund Request (Security Deposit Return Letter)",
+          "Email 2: The Legal Deadline Reminder (Demand Letter for Security Deposit)",
+          "Email 3: The Formal Security Deposit Demand Letter Template",
+          "Email 4: Final Notice Before Small Claims Escalation",
+          "State-Specific Variations: California, Texas, Florida & More",
+          "FAQ: How to Write a Security Deposit Letter That Actually Works"
+        ],
+        "key_points": [
+          "Target high-intent keywords including 'security deposit demand letter', 'landlord won't return security deposit', and 'security deposit refund letter'",
+          "Create urgency by citing state-specific deadlines and landlord penalty statutes",
+          "Offer editable templates for searches like 'how to write security deposit letter' and 'security deposit demand letter template'",
+          "Shift tone progressively from collaborative reminder to formal legal demand across the sequence",
+          "Address renter hesitation with clear steps on 'how to get security deposit back' without a lawyer"
+        ],
+        "cta": "Generate Your Free Security Deposit Demand Letter Now",
+        "target_audience": "Frustrated US renters whose landlords have failed to return their security deposit within the state-mandated timeframe and are actively searching for demand letter templates, refund letters, and legal recovery options.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

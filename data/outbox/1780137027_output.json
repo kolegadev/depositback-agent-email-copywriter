@@ -1,0 +1,35 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1780136957",
+  "timestamp": "2026-05-30T10:30:27.314206+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? A Step-by-Step Guide to Getting It Back",
+        "meta_description": "Landlord withholding your security deposit? Learn your rights, legal timelines, and how to write a dispute letter to get your money back fast.",
+        "content_outline": [
+          "Is Your Landlord Withholding Your Security Deposit?",
+          "How Long Is Your Landlord Required to Return Your Deposit?",
+          "Can Your Landlord Keep Your Security Deposit? Understanding the Law",
+          "What Can a Landlord Legally Deduct From Your Security Deposit?",
+          "My Landlord Won't Give Me My Deposit Back: What to Do Next",
+          "How to Write a Security Deposit Dispute Letter That Gets Results",
+          "Take Action: Recover Your Deposit Before It's Too Late"
+        ],
+        "key_points": [
+          "Most U.S. states require landlords to return security deposits within 14 to 60 days after move-out.",
+          "Landlords cannot deduct for normal wear and tear; only actual damages and unpaid rent are typically allowed.",
+          "A formal demand letter is the fastest, most effective first step to recover a withheld deposit.",
+          "Tenants may be entitled to statutory damages, penalties, or attorney fees if a landlord wrongfully withholds a deposit.",
+          "DepositBack generates state-specific security deposit demand letters in minutes, no lawyer required."
+        ],
+        "cta": "Don't let your landlord keep what's yours. Generate your state-specific security deposit demand letter with DepositBack in under 5 minutes and demand your money back today.",
+        "target_audience": "Frustrated US renters whose landlords are withholding, delaying, or unfairly deducting from their security deposit and need clear guidance on tenant rights and recovery steps.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

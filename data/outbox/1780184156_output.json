@@ -1,0 +1,57 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1780184112",
+  "timestamp": "2026-05-30T23:35:56.479614+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "email_sequence": [
+          {
+            "email_number": 1,
+            "subject_line": "Still waiting for your security deposit?",
+            "body_copy": "Hi [First Name],\n\nIf your landlord hasn't returned your security deposit, you're not alone\u2014and you don't need a lawyer to fight back.\n\nMost states give landlords 14 to 60 days to return your deposit or provide an itemized deduction list. After that, you have the legal right to demand payment.\n\nA formal security deposit demand letter is the fastest way to force action and show your landlord you know your rights.\n\nAt DepositBack, we help renters draft state-specific demand letters in minutes. No legal jargon. No hourly fees. Just results.\n\nGenerate your demand letter now \u2192 [LINK]\n\nThe DepositBack Team"
+          },
+          {
+            "email_number": 2,
+            "subject_line": "Template inside: The security deposit demand letter that works",
+            "body_copy": "Hi [First Name],\n\nWriting a security deposit letter to landlord can feel intimidating. Which laws do you cite? What tone works? One weak sentence and your landlord stalls even longer.\n\nThat's why we built the security deposit demand letter template trusted by renters in California, Texas, Florida, and every other state.\n\nIt includes the exact legal language, deadlines, and consequences your landlord needs to see\u2014so you don't have to guess.\n\nDon't let your landlord keep what's yours.\n\nGet your demand letter for security deposit \u2192 [LINK]\n\nBest,\nDepositBack"
+          },
+          {
+            "email_number": 3,
+            "subject_line": "What if your landlord won't return your security deposit?",
+            "body_copy": "Hi [First Name],\n\nIgnoring a tenant is illegal in most states. If your landlord won't return your security deposit, they may owe you double\u2014or even triple\u2014damages on top of the original amount.\n\nBut courts only reward tenants who can prove they tried to resolve the issue first.\n\nThat starts with a documented security deposit return letter. Whether you need a security deposit refund letter or a full demand letter, our tool creates a legally sound document tailored to your state's statutes.\n\nStop waiting. Start recovering.\n\nCreate your letter now \u2192 [LINK]\n\nDepositBack"
+          },
+          {
+            "email_number": 4,
+            "subject_line": "Last chance: Get your security deposit back legally",
+            "body_copy": "Hi [First Name],\n\nEvery day you wait is a day your landlord thinks you've given up.\n\nLearning how to get security deposit back is simple: you need a paper trail, a firm deadline, and state law on your side.\n\nDepositBack handles all three. From how to write security deposit letter copy to automated certified delivery, we make the process effortless.\n\nJoin thousands of renters who have used our security deposit demand letter to recover what's rightfully theirs.\n\n[CTA BUTTON: Generate My Free Demand Letter]\n\nTo your deposit back,\nDepositBack"
+          }
+        ],
+        "content_brief": {
+          "title": "Security Deposit Demand Letter: Get Your Money Back in Days",
+          "meta_description": "Get your security deposit back with a free demand letter template. State-specific, legally sound, ready in minutes. Start your claim now.",
+          "content_outline": [
+            "Why landlords delay security deposit returns",
+            "What is a security deposit demand letter",
+            "State laws and deadlines renters must know",
+            "How to write a security deposit demand letter",
+            "Free templates and examples by state",
+            "Next steps if your landlord ignores your letter"
+          ],
+          "key_points": [
+            "Most states require deposit returns within 14-60 days",
+            "A formal demand letter triggers legal deadlines and penalties",
+            "State-specific templates significantly increase recovery rates",
+            "DepositBack generates and sends your letter instantly with proper legal citations"
+          ],
+          "cta": "Generate Your Free Security Deposit Demand Letter Now",
+          "target_audience": "US renters whose landlords have failed to return their security deposit within the state-mandated timeframe",
+          "word_count_target": 800
+        }
+      }
+    }
+  ]
+}

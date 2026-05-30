@@ -1,0 +1,35 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1780114372",
+  "timestamp": "2026-05-30T04:13:50.800138+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Demand Letter Email Sequence: Recover Your Deposit in 5 Days",
+        "meta_description": "Draft a security deposit demand letter that gets results. Use DepositBack's high-urgency email sequence, free templates, and state-specific recovery tactics.",
+        "content_outline": [
+          "Email 1: The Deadline Alert \u2014 Subject line referencing state-specific return windows",
+          "Email 2: The Template Drop \u2014 Downloadable security deposit demand letter template (CA, TX, FL, NY, IL)",
+          "Email 3: The Escalation Notice \u2014 Final demand before filing in small claims court",
+          "Email 4: The Recovery Playbook \u2014 Step-by-step guide on how to get your security deposit back",
+          "Email 5: The Proof Point \u2014 Case studies of renters who recovered deposits using DepositBack"
+        ],
+        "key_points": [
+          "Subject Line A: 'Your security deposit is overdue \u2014 formal demand letter attached (State Law)'",
+          "Subject Line B: 'Landlord won't return security deposit? Use this free template today'",
+          "Subject Line C: 'Final notice: 48 hours before we file for double damages'",
+          "Body Copy Urgency: Open with the exact number of days past state deadline and cite statute codes to create immediate pressure",
+          "Body Copy Template: Provide a fill-in-the-blank security deposit return letter with itemized dispute and certified mail instructions",
+          "Body Copy Threat Vector: Highlight statutory penalties (e.g., treble damages in MA, double damages in CA) to motivate landlord compliance",
+          "Keyword Integration: Naturally weave in 'security deposit demand letter', 'security deposit refund letter', and 'letter to landlord about security deposit' across sequence copy"
+        ],
+        "cta": "Create Your Free State-Specific Demand Letter Now \u2014 DepositBack Sends It Certified in 2 Minutes",
+        "target_audience": "US renters who have moved out and whose landlords have failed to return a security deposit within the legally mandated timeframe, particularly in high-volume states like California, Texas, Florida, New York, and Illinois.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

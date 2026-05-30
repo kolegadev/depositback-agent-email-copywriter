@@ -1,0 +1,31 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1780109149",
+  "timestamp": "2026-05-30T02:46:48.061604+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Recovery Email Sequence: What to Do When Your Landlord Won't Return Your Deposit",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights, see proven email templates, and send a state-compliant demand letter today.",
+        "content_outline": [
+          "Email 1: The Initial Demand \u2014 High-Urgency Subject Lines & Body Copy for Landlords Withholding Deposits",
+          "Email 2: The Rights Reminder \u2014 State Deadlines, Illegal Deductions, and Prohibited Deposit Holds",
+          "Email 3: The Final Notice \u2014 Escalation Language, Dispute Letter Tactics, and Small Claims Preparation"
+        ],
+        "key_points": [
+          "Subject line urgency drivers like 'Final Notice: Return of Security Deposit for [Unit Address]' and '[State] Law Requires Deposit Return by [Date]' outperform generic openers.",
+          "Body copy must cite state-specific return deadlines, demand an itemized deduction list, and reject unlawful cleaning fees to create immediate legal pressure.",
+          "Landlords may only deduct for damage beyond normal wear and tear or unpaid rent; withholding for standard move-out wear is illegal in most jurisdictions.",
+          "A formal security deposit dispute letter is the critical bridge between polite requests and small claims court, often forcing repayment without litigation.",
+          "DepositBack generates state-compliant demand letters and automated escalation sequences tailored to the tenant's move-out date and local landlord-tenant laws."
+        ],
+        "cta": "Don't let your landlord keep what's yours. Generate your state-specific security deposit demand letter in minutes with DepositBack and recover your deposit fast.",
+        "target_audience": "Frustrated US renters whose landlords are withholding, deducting unfairly from, or failing to return their security deposits within the legal timeframe.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

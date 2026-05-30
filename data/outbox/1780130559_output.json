@@ -1,0 +1,33 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1780130458",
+  "timestamp": "2026-05-30T08:42:39.846543+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? The 3-Email Recovery Sequence to Get It Back Fast",
+        "meta_description": "Frustrated tenant? Use this urgent 3-part email sequence to fight back when your landlord is withholding your security deposit. Recover what's yours now.",
+        "content_outline": [
+          "Part 1: Email 1 \u2013 The Initial Demand (Subject: 'Immediate Return of Security Deposit \u2013 [Rental Address]')",
+          "Part 2: Email 2 \u2013 The Dispute & Evidence (Subject: 'Re: Unlawful Deductions / Overdue Deposit for [Address]')",
+          "Part 3: Email 3 \u2013 The Final Notice (Subject: 'Final Notice: Legal Action Pending on Withheld Security Deposit')",
+          "Part 4: State-by-State Deadlines: How Long Can a Landlord Hold Your Deposit?",
+          "Part 5: From Email to Action: Sending Your Formal Security Deposit Dispute Letter"
+        ],
+        "key_points": [
+          "Email 1 Body Copy: Open with exact move-out date, deposit amount, and state-mandated return deadline. Demand the full deposit within 48 hours or a legally compliant itemized deduction list.",
+          "Email 2 Body Copy: Challenge invalid withholdings like normal wear and tear or inflated cleaning fees. Attach time-stamped move-in/move-out photos and cite tenant rights statutes.",
+          "Email 3 Body Copy: Escalate with clear consequences\u2014intent to file in small claims court, demand for statutory penalties, triple damages, and interest. Attach a formal demand letter.",
+          "Subject Line Swipe File: 'Your deposit is now overdue', 'Immediate action required: Security deposit for [Address]', 'Final notice before legal filing \u2013 [Your Name]', 'Re: Wrongfully withheld security deposit'.",
+          "Urgency Hook: Landlords rely on tenant inertia. Every day you wait weakens your claim. Most states require return within 14-30 days; after that, you may be entitled to penalties above the deposit amount."
+        ],
+        "cta": "Stop waiting and start recovering. Generate your state-specific, legally sound security deposit demand letter with DepositBack in under 5 minutes and force your landlord to pay attention today.",
+        "target_audience": "Frustrated U.S. renters whose landlords are withholding, delaying, or wrongfully deducting from their security deposit and need an immediate, legally credible recovery strategy.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

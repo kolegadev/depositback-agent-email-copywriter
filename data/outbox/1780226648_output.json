@@ -1,0 +1,36 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1780226525",
+  "timestamp": "2026-05-31T11:24:08.645695+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Demand Letter Email Sequence: Recover Your Deposit in 7 Days",
+        "meta_description": "Draft a high-urgency security deposit demand letter email sequence to recover your rental deposit fast. Templates and subject lines included.",
+        "content_outline": [
+          "Introduction: Why Most Renters Lose Their Security Deposit (And How an Email Sequence Fixes It)",
+          "The 3-Day DepositBack Recovery Sequence Overview",
+          "High-Converting Subject Lines Targeting 'Security Deposit Demand Letter' Intent",
+          "Email 1 Body Copy: The Polite-but-Firm Initial Demand with State Deadline",
+          "Email 2 Body Copy: The Statutory Reminder Escalating Urgency and Disputing Deductions",
+          "Email 3 Body Copy: The Final Notice Threatening Small Claims & Statutory Penalties",
+          "SEO Integration: Mapping Keywords (CA, TX, FL, IL, MA, WA, CO, OK) to Sequence Variants",
+          "Deliverability Tactics: Certified Mail Tracking, Timing, and Spam Avoidance"
+        ],
+        "key_points": [
+          "Target transactional keywords like 'security deposit demand letter template', 'how to get security deposit back', and 'landlord won't return security deposit' in H2s and subject line copy",
+          "Lead every email with the exact state-mandated return deadline (e.g., 21 days in CA, 30 in TX) to create immediate urgency",
+          "Use subject lines such as 'Urgent: Security Deposit Overdue \u2013 [State] Law' and 'Final Notice Before Small Claims Filing' to maximize open rates",
+          "Structure body copy in three acts: deadline reminder, evidence of compliance (move-out condition), and clear consequence (legal action + penalties)",
+          "Close each email with a trackable CTA linking to DepositBack's state-specific demand letter generator"
+        ],
+        "cta": "Start Your Free DepositBack Security Deposit Demand Letter \u2013 Get Paid Back Fast",
+        "target_audience": "U.S. renters whose landlords have failed to return a security deposit within the state-mandated deadline, particularly in California, Texas, Florida, New York, Illinois, Massachusetts, Washington, Colorado, and Oklahoma",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

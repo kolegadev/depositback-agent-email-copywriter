@@ -1,0 +1,40 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1780244295",
+  "timestamp": "2026-05-31T16:19:33.972537+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Recovery Email Sequence: Demand Letters That Work",
+        "meta_description": "Get your security deposit back with our proven demand letter email sequence. Free templates for all 50 states. Start your recovery now.",
+        "content_outline": [
+          "Email 1: Urgency & Demand \u2014 Security Deposit Demand Letter Template",
+          "Email 2: Legal Leverage \u2014 How to Get Your Security Deposit Back Fast",
+          "Email 3: Escalation \u2014 When Your Landlord Won't Return Your Security Deposit",
+          "Email 4: Resolution \u2014 Security Deposit Refund Letter & Final Steps",
+          "Email 5: Education \u2014 How to Write a Security Deposit Letter That Holds Up in Court"
+        ],
+        "key_points": [
+          "Subject Line 1: 'Your security deposit is late\u2014send this demand letter today'",
+          "Body 1: Open with state-specific legal deadlines to create immediate urgency. Introduce the security deposit demand letter template as the fastest way to document the request and protect tenant rights. Target keywords: security deposit demand letter, security deposit demand letter template.",
+          "Subject Line 2: '[State] law says you have rights (get your deposit back now)'",
+          "Body 2: Address how to get security deposit back by outlining strict return timelines for CA, TX, FL, NY, and IL. Emphasize that landlords who miss deadlines may owe double or triple damages, making inaction costly. Target keywords: how to get security deposit back, security deposit return letter.",
+          "Subject Line 3: 'Still no check? Here's what happens when landlords ignore the law'",
+          "Body 3: Target landlord won't return security deposit intent. Explain that a formal demand letter for security deposit creates a legally documented paper trail and often forces compliance before small claims court. Target keywords: landlord won't return security deposit, demand letter for security deposit.",
+          "Subject Line 4: 'Final step: your security deposit refund letter is ready'",
+          "Body 4: Close with a ready-to-send security deposit refund letter and a direct CTA to generate a personalized, state-compliant letter instantly. Reassure with a recovery-focused guarantee. Target keywords: security deposit refund letter, security deposit letter to landlord.",
+          "Subject Line 5: 'How to write a security deposit letter that actually works'",
+          "Body 5: Educational pivot targeting how to write security deposit letter and letter to landlord about security deposit. Provide a checklist of legally required elements to increase urgency around accuracy and completeness.",
+          "Urgency Framework: Every email uses time-sensitive triggers\u2014state deadline countdowns, double-damage liability, certified mail tracking\u2014to compel immediate action and reduce click hesitation.",
+          "Transactional SEO Integration: Primary keyword cluster includes security deposit demand letter, security deposit demand letter template, how to get security deposit back, and state-specific variants to capture bottom-funnel search intent."
+        ],
+        "cta": "Generate Your Free Security Deposit Demand Letter \u2014 Start Your Recovery in Under 2 Minutes",
+        "target_audience": "US renters in all 50 states who have moved out within the last 30\u201390 days and have not received their security deposit refund, particularly those actively searching for demand letter templates, legal remedies, and state-specific guidance in California, Texas, Florida, New York, Illinois, Massachusetts, Washington, Oklahoma, and Colorado.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

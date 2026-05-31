@@ -1,0 +1,33 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1780215185",
+  "timestamp": "2026-05-31T08:14:48.546582+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? The Exact Emails & Letters to Get It Back",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights, what landlords can deduct, and how to demand your deposit back fast.",
+        "content_outline": [
+          "Email Subject Lines That Create Urgency: Openers That Landlords Can't Ignore",
+          "The Anatomy of a High-Conversion Demand Email: Body Copy Breakdown",
+          "Illegal Deductions Decoded: What 'Normal Wear and Tear' Really Means",
+          "State-by-State Deadline Cheat Sheet: When You're Legally Owed Double Damages",
+          "From Email to Court: Escalating When Your Landlord Still Won't Pay"
+        ],
+        "key_points": [
+          "Subject lines like 'Re: [Unit Address] \u2013 Security Deposit Overdue (Formal Demand)' signal legal intent and increase reply rates by positioning the tenant as organized and informed.",
+          "The demand email body must cite the state's statutory deadline, itemize the expected return amount, and set a 7-day final response window to create enforceable urgency.",
+          "Landlords may only deduct for actual damage beyond ordinary wear and tear or unpaid rent; cleaning fees for move-out are generally illegal unless specified in lease and state law.",
+          "Sending a written demand is a prerequisite for small claims court in most jurisdictions and can trigger statutory penalties of 2x\u20133x the deposit amount.",
+          "DepositBack's automated demand letter service generates state-specific, legally vetted copy with certified mail tracking to maximize recovery speed."
+        ],
+        "cta": "Generate your free, state-specific security deposit demand letter in under 3 minutes \u2014 and make your landlord pay attention.",
+        "target_audience": "Frustrated US tenants whose landlords are wrongfully withholding, delaying, or over-deducting from their security deposit and who need fast, legally credible recovery tools.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

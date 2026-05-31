@@ -1,0 +1,34 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1780239963",
+  "timestamp": "2026-05-31T15:06:52.635213+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Security Deposit? Recover Your Money in 3 Steps",
+        "meta_description": "Your landlord is withholding your security deposit illegally? Learn your tenant rights, what deductions are legal, and how to demand your money back in days.",
+        "content_outline": [
+          "The Breaking Point: When Your Landlord Withholds Your Security Deposit",
+          "Is My Landlord Required to Return My Deposit? State Deadlines Explained",
+          "What Can a Landlord Deduct (and What Is Illegal)?",
+          "\u201cMy Landlord Won\u2019t Give Me My Deposit Back\u201d\u2014Your Immediate Action Plan",
+          "How to Write a Security Deposit Dispute Letter That Gets Results",
+          "Fast-Track Your Recovery: Send Your Demand Letter Today"
+        ],
+        "key_points": [
+          "Most states require landlords to return security deposits within 14 to 30 days",
+          "Normal wear and tear cannot be deducted; only documented damage beyond reasonable use is legal",
+          "Tenants who send a formal demand letter recover deposits up to 3x faster than those who only call or email",
+          "A security deposit dispute letter citing state law signals you know your rights and are prepared to escalate",
+          "DepositBack automates state-specific demand letters so you can demand your deposit back in minutes, not weeks"
+        ],
+        "cta": "Don\u2019t let your landlord keep what\u2019s yours. Generate your state-specific security deposit demand letter now and start your recovery today.",
+        "target_audience": "Frustrated U.S. renters dealing with landlords withholding, delaying, or wrongfully deducting security deposits who need immediate legal leverage to recover their money.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

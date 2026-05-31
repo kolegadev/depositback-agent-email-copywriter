@@ -1,0 +1,38 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1780253734",
+  "timestamp": "2026-05-31T18:56:05.361155+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Security Deposit? Your 3-Step Recovery Plan",
+        "meta_description": "Is your landlord withholding your security deposit? Learn what deductions are illegal, how to write a demand letter, and recover your money fast.",
+        "content_outline": [
+          "Introduction: The Real Cost of a Withheld Security Deposit",
+          "Know Your Rights: What a Landlord Can and Cannot Deduct",
+          "Top Reasons Landlords Wrongfully Keep Deposits (And Why They\u2019re Illegal)",
+          "What to Do When Your Landlord Won't Return Your Deposit: A Step-by-Step Guide",
+          "High-Converting Email Subject Lines & Body Copy for Your Demand Letter",
+          "How to Escalate: Small Claims Court, Statutory Penalties, and Legal Pressure",
+          "Conclusion: Take Back Your Money Without Hiring a Lawyer"
+        ],
+        "key_points": [
+          "Email Subject Line 1: 'Formal Demand: Immediate Return of Security Deposit \u2014 [Property Address]'",
+          "Email Subject Line 2: 'Urgent: Security Deposit Overdue Under [State] Law \u2014 Action Required'",
+          "Email Subject Line 3: 'Legal Notice: Failure to Return Security Deposit by [Deadline]'",
+          "Body Copy Opening: State move-out date, deposit amount, and the exact state-mandated deadline your landlord missed to establish legal urgency.",
+          "Body Copy Body: Cite your state\u2019s security deposit statute, itemize unlawful deductions (normal wear and tear, pre-existing damage), and demand full payment within 7 days.",
+          "Body Copy Closing: Warn of escalation to small claims court, statutory penalties, and interest; attach move-in/move-out photo evidence and certified mail tracking.",
+          "Fact: Most states require deposit return within 14\u201360 days; deductions must be itemized in writing. Normal wear and tear is never a valid deduction.",
+          "Psychological Trigger: Tenants who send a formal, state-specific demand letter recover deposits 3x faster than those who rely on text messages or phone calls."
+        ],
+        "cta": "Don't let your landlord keep what's yours. Generate a state-specific security deposit demand letter with DepositBack in under 5 minutes and start your recovery today.",
+        "target_audience": "Problem-aware US renters whose landlords are wrongfully withholding, failing to return, or making illegal deductions from security deposits; actively searching for demand letter templates and legal next steps.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

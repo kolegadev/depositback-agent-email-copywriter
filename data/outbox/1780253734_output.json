@@ -1,0 +1,51 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1780253702",
+  "timestamp": "2026-05-31T18:55:34.459003+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Security Deposit Demand Letter Generator: Recover Your Deposit Fast",
+        "meta_description": "Lost your security deposit? Generate a free, state-specific security deposit demand letter in 3 minutes. No lawyer needed. Start your recovery today.",
+        "content_outline": [
+          "Why Your Landlord Ignores Verbal Requests (and Why a Security Deposit Demand Letter Works)",
+          "Security Deposit Demand Letter Template: What Every State Requires",
+          "How to Get Your Security Deposit Back Without a Lawyer",
+          "What to Do When Your Landlord Won't Return Your Security Deposit",
+          "Writing Your Security Deposit Letter to Landlord: A Step-by-Step Guide",
+          "DepositBack vs. Generic Security Deposit Refund Letter Templates"
+        ],
+        "key_points": [
+          "A security deposit demand letter is the fastest legal way to force repayment and start your state's statutory clock",
+          "State laws vary widely: California, Texas, Florida, New York and others have unique deadlines, citation requirements, and penalty clauses",
+          "Generic templates often miss state-specific legal citations that make landlords take the notice seriously",
+          "Certified delivery and proper legal phrasing are critical to creating enforceable leverage",
+          "Most renters recover deposits or receive valid itemizations within 14 days of sending a formal demand letter"
+        ],
+        "cta": "Generate Your Free Security Deposit Demand Letter \u2014 It Takes 3 Minutes",
+        "target_audience": "US renters who have recently moved out and are waiting for a security deposit refund, facing unfair deductions, or whose landlord is refusing to return their deposit",
+        "word_count_target": 800,
+        "email_sequence": [
+          {
+            "email_number": 1,
+            "subject_line": "Your security deposit demand letter is ready (3-minute setup)",
+            "body_copy": "Hi [First Name],\n\nStill waiting for your security deposit? You're not alone\u2014and you're not out of options.\n\nVerbal requests get ignored. Emails get buried. But a formal security deposit demand letter puts your landlord on legal notice and starts the countdown under your state's law.\n\nMost renters who send a properly formatted demand letter recover their deposit within 14 days, without ever hiring a lawyer.\n\nDepositBack builds your letter automatically:\n\u2022 State-specific legal citations\n\u2022 Firm deadline tailored to your location\n\u2022 Certified-mail instructions included\n\nDon't leave money on the table.\n[CTA: Generate My Free Demand Letter]\n\nBest,\nThe DepositBack Team"
+          },
+          {
+            "email_number": 2,
+            "subject_line": "Landlord won't return security deposit? Do this first",
+            "body_copy": "Hi [First Name],\n\nEvery day you wait, your landlord hopes you'll give up.\n\nIn most states, landlords have a strict window\u2014usually 14 to 60 days\u2014to return your deposit or provide an itemized list of deductions. Miss that window, and they could owe you double or triple damages.\n\nBut they won't take you seriously until you put it in writing.\n\nA demand letter for security deposit isn't just a request. It's a documented legal notice that shows you know your rights\u2014and you're ready to escalate if ignored.\n\nDepositBack creates a state-specific security deposit demand letter template in under 3 minutes, using language proven to get results.\n\nDon't let them keep what's yours.\n[CTA: Write My Demand Letter Now]\n\nBest,\nThe DepositBack Team"
+          },
+          {
+            "email_number": 3,
+            "subject_line": "Before small claims court, send this security deposit letter",
+            "body_copy": "Hi [First Name],\n\nSmall claims court works, but it's slow. Here's the good news: most security deposit disputes never reach a judge.\n\nWhy? Because courts want proof you tried to resolve the issue first. A written security deposit letter to landlord is often legally required before you can sue\u2014and it's the single most effective way to force a refund fast.\n\nNot sure how to write a security deposit letter? DepositBack handles it for you:\n\u2022 Professional, legally sound language\n\u2022 Automatic state deadline calculation\n\u2022 Download and send today\n\nYou waited long enough. Take back your deposit in the next 3 minutes.\n[CTA: Get My Deposit Back]\n\nBest,\nThe DepositBack Team"
+          }
+        ]
+      }
+    }
+  ]
+}

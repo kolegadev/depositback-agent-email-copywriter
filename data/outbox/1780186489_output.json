@@ -1,0 +1,34 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1780186460",
+  "timestamp": "2026-05-31T00:14:49.729856+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "5-Day Security Deposit Recovery Email Sequence for US Renters",
+        "meta_description": "Landlord withholding your security deposit? Get proven email scripts, subject lines, and a free demand letter to recover your deposit fast.",
+        "content_outline": [
+          "Email 1: The Alert \u2014 'Landlord Not Returning Deposit' (Problem Validation & State Deadline Urgency)",
+          "Email 2: The Audit \u2014 'What Can Landlord Deduct from Security Deposit?' (Rights Education & Deduction Checklist)",
+          "Email 3: The Demand \u2014 'Security Deposit Dispute Letter' (Formal Escalation & DepositBack Solution)",
+          "Email 4: The Ultimatum \u2014 'My Landlord Won't Give Me My Deposit Back' (Small Claims Threat & Statute Citations)",
+          "Email 5: The Win \u2014 'What to Do When Landlord Doesn't Return Deposit' (Final Checklist & Conversion Push)"
+        ],
+        "key_points": [
+          "Email 1 Subject Line: 'Landlord not returning deposit? (Legal deadline passed)' \u2014 Body opens by validating frustration: 'If your landlord is withholding your security deposit beyond your state's legal window, you have the right to demand immediate return\u2014plus statutory penalties.'",
+          "Email 2 Subject Line: 'Can my landlord keep my security deposit for this?' \u2014 Body contrasts legal deductions (unpaid rent, damage beyond normal wear) with illegal withholdings, integrating keywords like 'what can landlord deduct from security deposit' and 'tenant rights security deposit.'",
+          "Email 3 Subject Line: 'Attached: Your security deposit dispute letter' \u2014 Body transitions from education to action, presenting DepositBack's state-compliant demand letter generator and highlighting that a formal letter recovers deposits 3x faster than informal texts.",
+          "Email 4 Subject Line: 'Final notice: Security deposit not returned' \u2014 Body escalates urgency by citing exact state timelines (e.g., 21 days in CA, 30 days in TX, 14 days in NY) and warns of small claims court action if the deposit remains withheld.",
+          "Email 5 Subject Line: 'What to do when your landlord doesn't return deposit (last step)' \u2014 Body provides a step-by-step recovery checklist and positions DepositBack as the fastest, no-lawyer-needed solution to draft and send a final demand.",
+          "Urgency Framework: Each email includes a countdown dynamic based on move-out date, references to 'landlord wrongfully withholding security deposit,' and social proof (e.g., 'Join 10,000+ renters who got their money back')."
+        ],
+        "cta": "Stop writing angry emails that get ignored. Generate your official, state-compliant security deposit demand letter with DepositBack in under 3 minutes and force your landlord to respond.",
+        "target_audience": "Problem-aware US renters who have moved out within the last 6 months and are experiencing a landlord withholding, delaying, or wrongfully deducting from their security deposit; emotionally frustrated and seeking immediate, actionable help without hiring a lawyer.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

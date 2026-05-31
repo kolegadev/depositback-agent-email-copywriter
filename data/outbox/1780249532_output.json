@@ -1,0 +1,33 @@
+{
+  "agent": "email-copywriter",
+  "agent_id": "9",
+  "manifest_id": "brief-1780249507",
+  "timestamp": "2026-05-31T17:45:32.408238+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here's Your Recovery Playbook",
+        "meta_description": "Landlord withholding your security deposit? Learn your tenant rights, state deadlines, and how to write a demand letter that gets your money back fast.",
+        "content_outline": [
+          "Why Landlords Withhold Deposits (And Why Waiting Costs You)",
+          "Tenant Rights by State: Deadlines and Deduction Rules",
+          "What to Do When Your Landlord Won't Give Your Deposit Back",
+          "Security Deposit Dispute Letter: Template + Email Subject Lines",
+          "Escalation Tactics: From Demand to Small Claims Court"
+        ],
+        "key_points": [
+          "Landlords must return deposits within state-mandated windows (e.g., 14\u201360 days); missing these deadlines can forfeit their right to withhold deductions.",
+          "Normal wear and tear is not deductible; tenants can dispute inflated cleaning or damage charges with a formal demand letter.",
+          "Email subject lines like 'Formal Demand: Security Deposit Return Required by [Date]' increase open rates and legal pressure.",
+          "Targeting problem-aware keywords\u2014'landlord not returning deposit,' 'what can landlord deduct,' 'tenant rights security deposit'\u2014captures high-intent search traffic.",
+          "DepositBack automates state-specific demand letters, turning frustration into fast recoveries without hiring an attorney."
+        ],
+        "cta": "Stop chasing your landlord. Create your state-specific security deposit demand letter now with DepositBack and get your money back in days, not months.",
+        "target_audience": "Frustrated U.S. renters whose landlord is withholding, delaying, or wrongfully deducting from their security deposit and are actively searching for legal remedies and demand letter templates.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}
